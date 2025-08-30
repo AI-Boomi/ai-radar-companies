@@ -182,5 +182,3986 @@
     "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFJhZPEmiqlVQ/company-logo_200_200/B56ZXM_V5LHQAQ-/0/1742900913067/gnani_ai_logo?e=1756339200&v=beta&t=IXWZh3tknw3QGGykeTODOwQCkmbap8ELDch64Cew0PY",
     "description": "Delivers voice-first conversational AI solutions in 40+ languages for enterprise automation.",
     "linkedinProfile": "https://www.linkedin.com/company/gnani-ai/"
-  }
+  },
+  {
+        "id": "11",
+        "name": "MathCo",
+        "founded": 2016,
+        "founders": [
+            "Sayandeb Banerjee",
+            "Aditya Kumbakonam",
+            "Anuj Krishna"
+        ],
+        "website": "https://mathco.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "Illinois",
+        "city": "Chicago",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFSLuRei6pVZA/company-logo_200_200/B4DZfJuCNfGgAI-/0/1751435978200/themathcompany_logo?e=1756339200&v=beta&t=Vy4Sp8tiAGk0JOJrHLk-_60czod-rYImCCzxvVrcnyE",
+        "description": "A global enterprise AI and analytics firm that builds custom data products through its hybrid model, transferring IP ownership to clients. Its proprietary platform, NucliOS, offers pre-built workflows and modules for connected intelligence.",
+        "linkedinProfile": "https://www.linkedin.com/company/themathcompany"
+    },
+    {
+        "id": "12",
+        "name": "ZirohLabs",
+        "founded": 2016,
+        "founders": [
+            "Hrishikesh Dewan",
+            "Surabhi Das",
+            "Bhaskar Medhi"
+        ],
+        "website": "https://www.ziroh.com/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Palo Alto",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF1OzTzGsU8gA/company-logo_200_200/company-logo_200_200/0/1688981217232/zirohlabs_logo?e=1756339200&v=beta&t=PGvRn9KreuYSh5jp2gGMkprZ8FdjV25Azym20JwgZt0",
+        "description": "A deep tech company focused on Artificial Intelligence. Their flagship platform, Kompact AI, enables LLM inference and fine-tuning directly on CPUs, delivering GPU-class performance.",
+        "linkedinProfile": "https://www.linkedin.com/company/zirohlabs/"
+    },
+    {
+        "id": "13",
+        "name": "Invideo AI",
+        "founded": 2017,
+        "founders": [
+            "Sanket Shah",
+            "Harsh Vakharia",
+            "Pankit Chedda"
+        ],
+        "website": "https://invideo.io/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGOqXeQEtPK1Q/company-logo_200_200/B4DZd8oOKGGYAI-/0/1750142608494/invideoio_logo?e=1756339200&v=beta&t=vEMZR7yfJjYFEoXgc2HS9-KxxYXpvCqLWuBROwLKA00",
+        "description": "AI-powered video creation platform that transforms text prompts into professional-quality videos, complete with stock media, voiceovers, subtitles, and more.",
+        "linkedinProfile": "https://www.linkedin.com/company/invideoio/"
+    },
+    {
+        "id": "14",
+        "name": "Zini",
+        "founded": 2017,
+        "founders": [
+            "Dr. Rohit Sharma"
+        ],
+        "website": "https://zini.ai/",
+        "category": "Healthcare & Medical Diagnostics",
+        "tags": [
+            "Healthcare & Medical Diagnostics"
+        ],
+        "country": "India",
+        "state": NaN,
+        "city": "New Delhi",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGzLZKfhSeNiA/company-logo_200_200/company-logo_200_200/0/1631311299802?e=1756339200&v=beta&t=R--NJQap2JDkKrYtmIlSxNTGDKusbLK-2AiD9IJjMQ4",
+        "description": "AI-powered virtual physician chatbot designed to bridge the doctor-patient ratio gap in India",
+        "linkedinProfile": "https://www.linkedin.com/company/zinitheai/"
+    },
+    {
+        "id": "15",
+        "name": "Observe",
+        "founded": 2017,
+        "founders": [
+            "Swapnil Jain",
+            "Sharath Keshava Narayana",
+            "Akash Singh"
+        ],
+        "website": "https://www.observe.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Redwood City",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEikpv0408BzQ/company-logo_200_200/company-logo_200_200/0/1730929317508/observeai_logo?e=1756339200&v=beta&t=JYdJMUeshtDh_ts2UvNP4hWWjC0lt-AvVq9HZo7vJbg",
+        "description": "Provides AI solutions to enhance contact center performance and agent coaching.",
+        "linkedinProfile": "https://www.linkedin.com/company/observeai/"
+    },
+    {
+        "id": "16",
+        "name": "Finbots",
+        "founded": 2017,
+        "founders": [
+            "Sanjay Uppal",
+            "Deeba Kazmi"
+        ],
+        "website": "https://www.finbots.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "Singapore",
+        "state": NaN,
+        "city": "Singapore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGnQY0udJBJuQ/company-logo_200_200/B56ZgpXK1JHQAI-/0/1753040596741/finbots_ai_pte_ltd_logo?e=1756339200&v=beta&t=mqIEhPQgLlLqzqhbqqYX5Gczq-aUEUJPRQMRpOEkBUk",
+        "description": "AI-driven credit risk modeling platform that enables financial institutions to rapidly build, validate, and deploy high-accuracy credit scorecards across the lending lifecycle\u2014application, behavior, and collections.",
+        "linkedinProfile": "https://www.linkedin.com/company/finbots-ai-pte-ltd/"
+    },
+    {
+        "id": "17",
+        "name": "Almonds",
+        "founded": 2017,
+        "founders": [
+            "AbhinavJain",
+            "Apurv Abhay Modi"
+        ],
+        "website": "https://almonds.ai/",
+        "category": "Customer Service & Engagement",
+        "tags": [
+            "Customer Service & Engagement"
+        ],
+        "country": "India",
+        "state": "Haryana",
+        "city": "Gurugram",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGVlOMksEIdoQ/company-logo_200_200/company-logo_200_200/0/1687936231981/almondsolns_logo?e=1756339200&v=beta&t=9BxIdfxMAGDxpVIGOTz59ut7jsOJTTq9eR0xYiKNqDs",
+        "description": "AI-powered channel engagement solutions to enhance partner loyalty and deliver seamless rewards experiences across industries.",
+        "linkedinProfile": "https://www.linkedin.com/company/almondsai/"
+    },
+    {
+        "id": "18",
+        "name": "Rezo",
+        "founded": 2017,
+        "founders": [
+            "Manish Gupta",
+            "Dr. Rashi Gupta"
+        ],
+        "website": "https://www.rezo.ai/",
+        "category": "Customer Service & Engagement",
+        "tags": [
+            "Customer Service & Engagement"
+        ],
+        "country": "India",
+        "state": "Uttar Pradesh",
+        "city": "Noida",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGHb9LOqxmzIw/company-logo_200_200/company-logo_200_200/0/1703849216988/rezo_ai_logo?e=1756339200&v=beta&t=8pFrKi16dfSbzZh0JTeCSpETLMauyi6oFIQQuF58Tzo",
+        "description": "Builds AI-powered credit risk models to help financial institutions assess and manage lending decisions more efficiently",
+        "linkedinProfile": "https://www.linkedin.com/company/rezo-ai/"
+    },
+    {
+        "id": "19",
+        "name": "Nanonets",
+        "founded": 2017,
+        "founders": [
+            "Sarthak Jain",
+            "Prathamesh Juvatkar"
+        ],
+        "website": "https://nanonets.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQEjX0xoTWPuig/company-logo_200_200/company-logo_200_200/0/1630584031700/nanonets_logo?e=1756339200&v=beta&t=mdtTcqIAnOdAVlCfbuiAB63oxcnB9g_Zzr2Zoj42wKI",
+        "description": "AI-driven solution that automates document processing and data extraction workflows, helping companies automate document-heavy business processes like accounts payable, order processing, and insurance underwriting.",
+        "linkedinProfile": "https://www.linkedin.com/company/nanonets"
+    },
+    {
+        "id": "20",
+        "name": "Presentations",
+        "founded": 2018,
+        "founders": [
+            "Sumanth Raghvendra",
+            "Ravi Kasthuri",
+            "Pallav Nadhani"
+        ],
+        "website": "https://www.presentations.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFX1xEvbIeisQ/company-logo_200_200/company-logo_200_200/0/1683469065032/presentationshq_logo?e=1756339200&v=beta&t=_YB4Eahgnh8B5IW5R4_HCYTw78cyNxyAu2GDbTlNdTo",
+        "description": "AI-powered platform that transforms text prompts into polished, brand-aligned presentations within minutes",
+        "linkedinProfile": "https://www.linkedin.com/company/presentationshq/"
+    },
+    {
+        "id": "21",
+        "name": "KOGO AI",
+        "founded": 2018,
+        "founders": [
+            "Raj K Gopalakrishnan",
+            "Praveer Kochhar"
+        ],
+        "website": "https://kogo.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGBjNXh1DBAOg/company-logo_200_200/company-logo_200_200/0/1711609025738/kogo_tech_labs_logo?e=1756339200&v=beta&t=_8q6Gh30arb83TSkR0amEG0V_G5VfSVhFEGp700FUqI",
+        "description": "A no-code/low-code platform that enables businesses to build and deploy custom AI agents to automate tasks like customer service, scheduling, and data processing.",
+        "linkedinProfile": "https://www.linkedin.com/company/kogo-tech-labs/"
+    },
+    {
+        "id": "22",
+        "name": "Pixis",
+        "founded": 2018,
+        "founders": [
+            "Shubham Mishra",
+            "Harsh Vardhan",
+            "Vrushali Prasade"
+        ],
+        "website": "https://pixis.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "India",
+        "state": "California",
+        "city": NaN,
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHugAcnLOcvkg/company-logo_200_200/B4EZY0l61RHcAI-/0/1744639078115/pixisai_logo?e=1756339200&v=beta&t=8uFUu2mlDbToT1xwYm06D_4_GCEV11UN3XQa7zm1Zf8",
+        "description": "Provides codeless AI infrastructure to enable customers to scale accurate data-driven marketing.",
+        "linkedinProfile": "https://www.linkedin.com/company/pixisai/about/"
+    },
+    {
+        "id": "23",
+        "name": "Jiffy",
+        "founded": 2018,
+        "founders": [
+            "Babu Sivadasan",
+            "Krishnan Subramanian",
+            "Sudhir Sen",
+            "Rajmohan Harindranath",
+            "Payeli Ghosh",
+            "Shreyas P C"
+        ],
+        "website": "https://jiffy.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Palo Alto",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEmOqLQ5HtFCg/company-logo_200_200/company-logo_200_200/0/1702991036937/jiffyai_logo?e=1756339200&v=beta&t=oEui1PpXCxqjcaW0j0qJYvALEsc4nrlPE1jfm77QxmU",
+        "description": "Offers AI-powered automation platforms for enterprise processes.",
+        "linkedinProfile": "https://www.linkedin.com/company/jiffyai/"
+    },
+    {
+        "id": "24",
+        "name": "Leena",
+        "founded": 2018,
+        "founders": [
+            "Adit Jain",
+            "Anand Prajapati",
+            "Mayank Goyal"
+        ],
+        "website": "https://leena.ai/",
+        "category": "Recruitment, HR, Training & EdTech",
+        "tags": [
+            "Recruitment",
+            "HR",
+            "Training & EdTech"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGEUTuTgJCMDA/company-logo_200_200/company-logo_200_200/0/1630534607790/l_e_e_n_a_logo?e=1756339200&v=beta&t=3c0KVXDlfz4gdmwqXEQE5sYg5Lg0hqEj56SwsSPH4-s",
+        "description": "AI-powered virtual assistant for HR that automates employee queries and HR workflows.",
+        "linkedinProfile": "https://www.linkedin.com/company/leena-ai/"
+    },
+    {
+        "id": "25",
+        "name": "AssertAI",
+        "founded": 2018,
+        "founders": [
+            "Nitin Jain",
+            "Job Philip",
+            "Shalabh"
+        ],
+        "website": "https://www.assertai.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHAD1aqjSuXkg/company-logo_200_200/B56ZUokTsVHoAI-/0/1740142361935/assert_ai_logo?e=1756339200&v=beta&t=PeSeqcpBKFp0dos28FAa3JhaUF90OgdlXlKxecZaDr4",
+        "description": "AI-driven video analytics solutions that transform existing CCTV infrastructure into intelligent systems.",
+        "linkedinProfile": "https://www.linkedin.com/company/assert-ai/"
+    },
+    {
+        "id": "26",
+        "name": "Spyne",
+        "founded": 2018,
+        "founders": [
+            "Sanjay Kumar Varnwal",
+            "Deepti Prasad"
+        ],
+        "website": "https://www.spyne.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Haryana",
+        "city": "Gurugram",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQFUNZsFw-cq9w/company-logo_200_200/company-logo_200_200/0/1630610411871/spyne_ai_logo?e=1756339200&v=beta&t=g4ntLiZPXfoxQF6vNcvKyKxrMccmv2wi8L0NUndXUW8",
+        "description": "A deep tech company helping businesses create studio-finish catalogs using AI.",
+        "linkedinProfile": "https://www.linkedin.com/company/spyne-ai/"
+    },
+    {
+        "id": "27",
+        "name": "Hyperleap AI",
+        "founded": 2018,
+        "founders": [
+            "Gopi Krishna Lakkepuram"
+        ],
+        "website": "https://hyperleap.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Telangana",
+        "city": "Serilingampally",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQG7DOGDw_LVBg/company-logo_200_200/company-logo_200_200/0/1735568480180/hyperleapai_logo?e=1756339200&v=beta&t=Ezn1xlXTfb-Jo-Gew-tcfOB3T-qRtLHwQRo0QIINZ9g",
+        "description": "Helps businesses create powerful AI chatbots without coding or technical expertise.",
+        "linkedinProfile": "https://www.linkedin.com/company/hyperleapai/"
+    },
+    {
+        "id": "28",
+        "name": "Intellemo",
+        "founded": 2018,
+        "founders": [
+            "Saurabh Gupta",
+            "Tusha Agrawal",
+            "Shivam Gupta"
+        ],
+        "website": "https://intellemo.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "India",
+        "state": "Haryana",
+        "city": "Gurugram",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHnh2Men4DSsg/company-logo_200_200/company-logo_200_200/0/1694363742483/intellemo_logo?e=1756339200&v=beta&t=8kH5fGhnZW4SuceEMd-bm0Ok02IywQ9xlFXrfylzkcg",
+        "description": "A digital marketing platform that enables small and medium businesses to run marketing campaigns effortlessly using Generative AI for content and strategy",
+        "linkedinProfile": "https://www.linkedin.com/company/intellemo"
+    },
+    {
+        "id": "29",
+        "name": "Sivi AI",
+        "founded": 2019,
+        "founders": [
+            "Ram Ganesan",
+            "Sona J Odayappan"
+        ],
+        "website": "https://sivi.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHoXmLeBO6DOg/company-logo_200_200/company-logo_200_200/0/1651420324455/sivi_ai_logo?e=1756339200&v=beta&t=i7VD9VIc4BpOk3pVmZm0togTb_VO9huCGjGeWx-HVkA",
+        "description": "Instantly generate ad creatives, social media posts, and more in 72+ languages using its Large Design Model (LDM).",
+        "linkedinProfile": "https://www.linkedin.com/company/sivi-ai/"
+    },
+    {
+        "id": "30",
+        "name": "DeepBrainz",
+        "founded": 2019,
+        "founders": [
+            "Arunkumar Venkataramanan"
+        ],
+        "website": "https://deepbrainz.com/",
+        "category": "Legal, Consulting, Research & Human-Centered AI",
+        "tags": [
+            "Legal",
+            "Consulting",
+            "Research & Human-Centered AI"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFyG2hE1uuwYQ/company-logo_200_200/company-logo_200_200/0/1706275366530/deepbrainz_logo?e=1756339200&v=beta&t=f-iCqNaKXqDkwT0m0L6lRudYDrsdanPk6uvHQgx-BcE",
+        "description": "Lexopedia AI: used to perform research using AI.",
+        "linkedinProfile": "https://www.linkedin.com/company/deepbrainz/"
+    },
+    {
+        "id": "31",
+        "name": "Affogato AI",
+        "founded": 2019,
+        "founders": [
+            "Bhagaban Behera",
+            "Nakul Kelkar",
+            "Sriharsha Setty"
+        ],
+        "website": "https://affogato.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQE-cL5G3QATXQ/company-logo_200_200/B56ZZEylucGoAM-/0/1744910835000/rendernetai_logo?e=1756339200&v=beta&t=W5oovoN_pjy4lxvOmnEMGOzMK-FrO358BvldIn1WNA0",
+        "description": "AI media creation platform generating ultra-realistic virtual human videos for marketing and storytelling.",
+        "linkedinProfile": "https://www.linkedin.com/company/aiaffogato/"
+    },
+    {
+        "id": "32",
+        "name": "Kalam Labs",
+        "founded": 2019,
+        "founders": [
+            "Ahmad Faraaz",
+            "Sashakt Tripathi",
+            "Harshit Awasthi"
+        ],
+        "website": "https://www.kalamlabs.in/",
+        "category": "Recruitment, HR, Training & EdTech",
+        "tags": [
+            "Recruitment",
+            "HR",
+            "Training & EdTech"
+        ],
+        "country": "India",
+        "state": "Uttar Pradesh",
+        "city": "Lucknow",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGsJgQlIjkLdA/company-logo_200_200/company-logo_200_200/0/1681720544289/ask_penny_logo?e=1756339200&v=beta&t=q3-mrbusitLAS0yF_qyHvechVmMWK9rrWvLtRX8IkT8",
+        "description": "Educational platform introducing children to space missions using AI and gamification.",
+        "linkedinProfile": "https://www.linkedin.com/company/kalamlabs/"
+    },
+    {
+        "id": "33",
+        "name": "Apna AI",
+        "founded": 2019,
+        "founders": [
+            "Nirmit Parikh"
+        ],
+        "website": "https://www.apnaai.com/",
+        "category": "Language, Communication & Voice",
+        "tags": [
+            "Language",
+            "Communication & Voice"
+        ],
+        "country": "India",
+        "state": NaN,
+        "city": "New Delhi",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGs2WEMdfVlaA/company-logo_200_200/company-logo_200_200/0/1696590129413?e=1756339200&v=beta&t=2s7QaIG49q1YoRw3ojPvjOoyMp3MjQPo5Slje-mWcyk",
+        "description": "Offers AI agents, multilingual chat, and voice support tailored for Indian users.",
+        "linkedinProfile": "https://www.linkedin.com/company/apnaai/"
+    },
+    {
+        "id": "34",
+        "name": "Myelinfoundry",
+        "founded": 2019,
+        "founders": [
+            "Ganesh Suryanarayanan",
+            "Anusha Rammohan",
+            "Aditi Olemann"
+        ],
+        "website": "https://www.myelinfoundry.com/",
+        "category": "Industry, Robotics, and IoT",
+        "tags": [
+            "Industry",
+            "Robotics",
+            "and IoT"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQE3OL8UZVjrrQ/company-logo_200_200/company-logo_200_200/0/1630597678241/myelin_foundry_logo?e=1756339200&v=beta&t=D8ehtycXcdIMebEfH_ZLD9T60qEybl2-er3NMUB4eKk",
+        "description": "A deep tech product startup that develops AI algorithms on video, voice, and sensor data for consumer edge devices, aiming to transform human experiences and industry outcomes.",
+        "linkedinProfile": "https://in.linkedin.com/company/myelinfoundry"
+    },
+    {
+        "id": "35",
+        "name": "Jarvislabs",
+        "founded": 2019,
+        "founders": [
+            "Vishnu Subramanian"
+        ],
+        "website": "https://jarvislabs.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Coimbatore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGCOKSexdDjWA/company-logo_200_200/company-logo_200_200/0/1630541220320/jarvislabsai_logo?e=1756339200&v=beta&t=SzCX3RJh9XvkspPa4klqYj5mSTsEGQZzXOTCKBWjspI",
+        "description": "Offers a 1-click GPU cloud platform for AI engineers and researchers. The platform provides affordable GPU rentals, enabling users to launch AI workspaces in minutes and focus on building intelligent models without the hassle of managing infrastructure.",
+        "linkedinProfile": "https://in.linkedin.com/company/jarvislabsai"
+    },
+    {
+        "id": "36",
+        "name": "Brainsight AI",
+        "founded": 2019,
+        "founders": [
+            "Rimjhim Agrawal",
+            "Laina Emmanuel"
+        ],
+        "website": "https://www.brainsightai.com/",
+        "category": "Healthcare & Medical Diagnostics",
+        "tags": [
+            "Healthcare & Medical Diagnostics"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFN_sBZqSzBHg/company-logo_200_200/company-logo_200_200/0/1723182880375/brainsightai_logo?e=1756339200&v=beta&t=Q2EDfxusT2uTkh-QG7SxxjrTt4nAB25cpdp0Z1JVzn8",
+        "description": "Combines artificial intelligence and neuroscience to enable greater precision in neurological and psychiatric investigations.",
+        "linkedinProfile": "https://in.linkedin.com/company/brainsightai"
+    },
+    {
+        "id": "37",
+        "name": "Qpiai",
+        "founded": 2019,
+        "founders": [
+            "Dr. Nagendra Nagaraja"
+        ],
+        "website": "https://qpiai.tech/",
+        "category": "Industry, Robotics, and IoT",
+        "tags": [
+            "Industry",
+            "Robotics",
+            "and IoT"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGYhO2RMdR-SA/company-logo_200_200/company-logo_200_200/0/1719255399260/qpiai_logo?e=1756339200&v=beta&t=5ejnzKqZL3SwHRKe2zqet4MAGx5TmPn0mNsS676CYJo",
+        "description": "Develops scalable quantum computing systems combined with AI capabilities",
+        "linkedinProfile": "https://www.linkedin.com/company/qpiai"
+    },
+    {
+        "id": "38",
+        "name": "Neuropixel",
+        "founded": 2020,
+        "founders": [
+            "Arvind Venugopal Nair",
+            "Amritendu Mukherjee"
+        ],
+        "website": "https://www.neuropixel.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFnBNNE75J4Vg/company-logo_200_200/company-logo_200_200/0/1640237706262/neuropixel_ai_logo?e=1756339200&v=beta&t=2s0f_qxTmMFd4vbuOXMGFhPMu11p0LziWOyggxc5erA",
+        "description": "Utilizes AI and computer vision to create synthetic models for the fashion industry.",
+        "linkedinProfile": "https://www.linkedin.com/company/neuropixel-ai/"
+    },
+    {
+        "id": "39",
+        "name": "Deeplobe",
+        "founded": 2020,
+        "founders": [
+            "Ramesh Damma"
+        ],
+        "website": "https://deeplobe.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHwxtxF9m27ow/company-logo_200_200/company-logo_200_200/0/1677129363381/deeplobe_logo?e=1756339200&v=beta&t=A0y7z1g0T_tv2am13PYicaYWvI58k4Gy_ovUcz8WTNY",
+        "description": "No-code AI platform for training, building, and integrating AI models.",
+        "linkedinProfile": "https://www.linkedin.com/company/deeplobe/"
+    },
+    {
+        "id": "40",
+        "name": "rivia ai",
+        "founded": 2020,
+        "founders": [
+            "Samay Jain"
+        ],
+        "website": "https://www.rivia.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGRADl6wrBgJg/company-logo_200_200/company-logo_200_200/0/1630670057200/rivia_ai_logo?e=1756339200&v=beta&t=bNNQMYXytPPP8ntGTLzh6N1Qk992IVWsvLiVMfJtnNA",
+        "description": "No-code platform to create interactive product demos for sales and marketing teams.",
+        "linkedinProfile": "https://www.linkedin.com/company/rivia-ai/"
+    },
+    {
+        "id": "41",
+        "name": "Maya Labs",
+        "founded": 2020,
+        "founders": [
+            "Sibesh Kar",
+            "Shubham Mishra"
+        ],
+        "website": "https://mayalabs.io/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFtjXsS5TjpxQ/company-logo_200_200/company-logo_200_200/0/1653316427872/mayalabsio_logo?e=1756339200&v=beta&t=PvxrWpT3KNyQ_rJmcVcE2TYb6j2t8v-JwGKsfkZcpKc",
+        "description": "Applied research lab on a mission to build machines which can program themselves to do any task.",
+        "linkedinProfile": "https://www.linkedin.com/company/mayalabsio/"
+    },
+    {
+        "id": "42",
+        "name": "Pragmatic Leaders (Ankai Inc)",
+        "founded": 2020,
+        "founders": [
+            "Talvinder Singh",
+            "Meera Khokhani"
+        ],
+        "website": "https://pragmaticleaders.io/",
+        "category": "Recruitment, HR, Training & EdTech",
+        "tags": [
+            "Recruitment",
+            "HR",
+            "Training & EdTech"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFDo5uNL24PoA/company-logo_200_200/company-logo_200_200/0/1631365533555?e=1756339200&v=beta&t=SjT2MITE1HBM9ixjdRVBPWUP4DYu6nokNzPo4p6vgk0",
+        "description": "AI-powered Corporate Training: Faster, Smarter, and More Effective",
+        "linkedinProfile": "https://www.linkedin.com/company/pragmaticleaders/"
+    },
+    {
+        "id": "43",
+        "name": "Ripik",
+        "founded": 2020,
+        "founders": [
+            "Pinak Dattaray"
+        ],
+        "website": "https://www.ripik.ai/",
+        "category": "Industry, Robotics, and IoT",
+        "tags": [
+            "Industry",
+            "Robotics",
+            "and IoT"
+        ],
+        "country": "India",
+        "state": NaN,
+        "city": "New Delhi",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFX0dxczQGdgw/company-logo_200_200/company-logo_200_200/0/1630497116576/ripik_ai_logo?e=1756339200&v=beta&t=LEnJmtikIJXtemjIh8bcz3sg07hu_e13mPuB2Z980iU",
+        "description": "Creates artificial intelligence applications for industrial business",
+        "linkedinProfile": "https://www.linkedin.com/company/ripik-ai/about/"
+    },
+    {
+        "id": "44",
+        "name": "LimeChat",
+        "founded": 2020,
+        "founders": [
+            "Aniket Nick Bajpai",
+            "Nikhil Gupta"
+        ],
+        "website": "https://www.limechat.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQH3B_KN1fResw/company-logo_200_200/company-logo_200_200/0/1630628659891/limechat_logo?e=1756339200&v=beta&t=Oy6iAs6qzA0sTmSKo35xj9OFoZqk8DFzkuoIWUkRpmo",
+        "description": "Provides AI-driven chat solutions to enhance customer engagement on messaging platforms.",
+        "linkedinProfile": "https://www.linkedin.com/company/limechat/"
+    },
+    {
+        "id": "45",
+        "name": "Dubpro",
+        "founded": 2020,
+        "founders": [
+            "Ishan Sharma",
+            "Rishikesh Kumar"
+        ],
+        "website": "https://dubpro.ai/",
+        "category": "Media & Entertainment, Synthetic Media Creation & Detection",
+        "tags": [
+            "Media & Entertainment",
+            "Synthetic Media Creation & Detection"
+        ],
+        "country": "India",
+        "state": "Uttar Pradesh",
+        "city": "Noida",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEdRKE65d-_Ug/company-logo_200_200/company-logo_200_200/0/1698051793338/deepsync_logo?e=1756339200&v=beta&t=vdRB8as__4M8cz-sfDgI38616FwxlIKYhQMqxPqy7jE",
+        "description": "AI-powered video dubbing platform that enables creators and businesses to localize their video content into multiple languages.",
+        "linkedinProfile": "https://www.linkedin.com/company/dubpro/"
+    },
+    {
+        "id": "46",
+        "name": "Vitra",
+        "founded": 2020,
+        "founders": [
+            "Akash Nidhi PS",
+            "Satvik Jagannath"
+        ],
+        "website": "https://www.vitra.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHl9x-d85jYFw/company-logo_200_200/company-logo_200_200/0/1630654865248/vitra_ai_logo?e=1756339200&v=beta&t=UnftsjPd0HJIWGiAYf-MCqCRBsRVs3pbQP9zEV5NGkI",
+        "description": "Generative AI platform that enables businesses to create, personalize, and translate videos, images, and websites into over 75 languages with a single click.",
+        "linkedinProfile": "https://www.linkedin.com/company/vitra-ai/"
+    },
+    {
+        "id": "47",
+        "name": "Listnr",
+        "founded": 2020,
+        "founders": [
+            "Ananay Batra",
+            "Matthias Schedel"
+        ],
+        "website": "https://listnr.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "Delaware",
+        "city": "Middletown",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFe7Znn1bNUVQ/company-logo_200_200/company-logo_200_200/0/1702747640742/listnr_logo?e=1756339200&v=beta&t=slqWxpMtm2xFtf8nf5SybNya7M2uay7KNMyhiMtON60",
+        "description": "AI platform that provides features such as voice cloning, emotion fine-tuning, and customizable speed and pitch adjustments.",
+        "linkedinProfile": "https://www.linkedin.com/company/listnr/"
+    },
+    {
+        "id": "48",
+        "name": "Neuron7",
+        "founded": 2020,
+        "founders": [
+            "Niken Patel",
+            "Vinay Saini",
+            "Amit Verma"
+        ],
+        "website": "http://neuron7.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Jose",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFA7HCbzubfXg/company-logo_200_200/company-logo_200_200/0/1630488500374/neuron7_ai_logo?e=1756339200&v=beta&t=85h-0QgdUwrFCeuDCgSddcQdPvXTcPIFTz0fA1smYTk",
+        "description": "AI-driven service intelligence solutions that help enterprises resolve customer issues faster by providing accurate resolutions.",
+        "linkedinProfile": "https://www.linkedin.com/company/neuron7-ai/"
+    },
+    {
+        "id": "49",
+        "name": "SuperOps",
+        "founded": 2020,
+        "founders": [
+            "Arvind Parthiban",
+            "Jayakumar Karumbasalam"
+        ],
+        "website": "https://superops.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "Delaware",
+        "city": "Claymont",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFvlxbA2LPcQA/company-logo_200_200/company-logo_200_200/0/1630462463223/superops_ai_logo?e=1756339200&v=beta&t=RgVLGU7SVGpz9sLCxTlaCkJcCahDAetUZBjmdWrZ2lw",
+        "description": "A unified PSA-RMM platform powered by intelligent automation for managed service providers (MSPs).",
+        "linkedinProfile": "https://www.linkedin.com/company/superops-ai/"
+    },
+    {
+        "id": "50",
+        "name": "Actyv",
+        "founded": 2020,
+        "founders": [
+            "Raghu Subramanian"
+        ],
+        "website": "https://actyv.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQF1kO8cLt6SXA/company-logo_200_200/company-logo_200_200/0/1662087874091/actyv_logo?e=1756339200&v=beta&t=GTWojHGZYeIL3ECpHKf7yBZibYTYygQgNZvbPPigHt8",
+        "description": "An enterprise SaaS platform that leverages AI to transform the supply chain ecosystem, including credit and insurance.",
+        "linkedinProfile": "https://www.linkedin.com/company/actyv/"
+    },
+    {
+        "id": "51",
+        "name": "Nektar",
+        "founded": 2020,
+        "founders": [
+            "Abhijeet Vijayvergiya",
+            "Aravind Ravi-Sulekha"
+        ],
+        "website": "https://nektar.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHNAgCMYkKxxQ/company-logo_200_200/company-logo_200_200/0/1661506942052/nektar_ai_logo?e=1756339200&v=beta&t=z-HxAyPwMYMJY4GlDM79Qqx-UCdX__kfyNatcEhmmyk",
+        "description": "A revenue operations platform that uses AI to automate data capture and improve sales productivity.",
+        "linkedinProfile": "https://www.linkedin.com/company/nektar-ai/"
+    },
+    {
+        "id": "52",
+        "name": "RedBrick",
+        "founded": 2020,
+        "founders": [
+            "Shivam Sharma",
+            "Derek Lukacs"
+        ],
+        "website": "https://www.redbrickai.com/",
+        "category": "Healthcare & Medical Diagnostics",
+        "tags": [
+            "Healthcare & Medical Diagnostics"
+        ],
+        "country": "US",
+        "state": "Delaware",
+        "city": "Claymont",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGO_xdnu2RfKA/company-logo_200_200/company-logo_200_200/0/1642686924334/redbrick_ai_logo?e=1756339200&v=beta&t=MxB2z3oHiVf4lht3iSh-waeAgvhCcyyjv2DUCqZ19oo",
+        "description": "Offers annotation tools to accelerate AI development for medical imaging.",
+        "linkedinProfile": "https://www.linkedin.com/company/redbrick-ai/"
+    },
+    {
+        "id": "53",
+        "name": "Rootle",
+        "founded": 2020,
+        "founders": [
+            "Naresh Prajapati",
+            "Vikram Patel",
+            "Jugal Bhavsar"
+        ],
+        "website": "https://rootle.ai/",
+        "category": "Recruitment, HR, Training & EdTech",
+        "tags": [
+            "Recruitment",
+            "HR",
+            "Training & EdTech"
+        ],
+        "country": "India",
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQHSt7pC1QXKmQ/company-logo_200_200/company-logo_200_200/0/1630588366713/hirewithrootle_logo?e=1756339200&v=beta&t=PzdGbwOL2-vJGw4-MyzZsoAgdg_LsCoXtW9qApnUMNs",
+        "description": "Automates customer support using voice and text AI across channels like chat, calls, and social media.",
+        "linkedinProfile": "https://www.linkedin.com/company/hirewithrootle/"
+    },
+    {
+        "id": "54",
+        "name": "Subtl",
+        "founded": 2020,
+        "founders": [
+            "Vishnu Ramesh",
+            "Sarath Chandra"
+        ],
+        "website": "http://subtl.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGUMmROyZWrHw/company-logo_200_200/company-logo_200_200/0/1736165358382/subtl_ai_logo?e=1756339200&v=beta&t=K5brqh2SlvETzpVDZakkSwy92kmr3WIZSI4NJ_KVWEE",
+        "description": "AI-powered document search platform that enables enterprises to interact with their internal knowledge bases through natural language queries.",
+        "linkedinProfile": "https://www.linkedin.com/company/subtl-ai/"
+    },
+    {
+        "id": "55",
+        "name": "Zams",
+        "founded": 2020,
+        "founders": [
+            "Nirman Dave",
+            "Tapojit Debnath",
+            "Chinmay Pingale"
+        ],
+        "website": "https://www.zams.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHb_k9m1Iadwg/company-logo_200_200/B56ZfsykSnHcAI-/0/1752024368604/zamshq_logo?e=1756339200&v=beta&t=y019CJe8QD3zqqJSPLJyQE76yjaNbPjNxUujhYHhBk8",
+        "description": "An enterprise-grade platform designed to build, deploy, and manage AI agents that automate complex business workflows.",
+        "linkedinProfile": "https://www.linkedin.com/company/zamshq"
+    },
+    {
+        "id": "56",
+        "name": "we360",
+        "founded": 2020,
+        "founders": [
+            "Arnav Gupta",
+            "Sandeep Panda",
+            "Swapnil Tripathi",
+            "Siddharth Gupta"
+        ],
+        "website": "https://we360.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "Delaware",
+        "city": "Claymont",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGPtLeVK5ZvZQ/company-logo_200_200/company-logo_200_200/0/1630627364312/we360_ai_logo?e=1756339200&v=beta&t=Wqre3mDUK6ixinZGodOCeZsl5ew8apzCNfmmC6QHFKA",
+        "description": "A cloud-based employee monitoring software that provides insights into employees' work environments, helping organizations enhance productivity through real-time analytics.",
+        "linkedinProfile": "https://www.linkedin.com/company/we360-ai"
+    },
+    {
+        "id": "57",
+        "name": "Scalenut",
+        "founded": 2020,
+        "founders": [
+            "Gaurav Goyal",
+            "Mayank Jain",
+            "Saurabh Wadhawan"
+        ],
+        "website": "https://www.scalenut.com/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Altadena",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQESpV3eZYV3eQ/company-logo_200_200/company-logo_200_200/0/1630584875076/scalenut_logo?e=1756339200&v=beta&t=qINN9Yalbto7DsbyJQCKu3iixWVYHgKtwxUDuQZ6bXA",
+        "description": "AI-powered SEO platform that helps businesses drive organic traffic and build sustainable businesses by automating the entire SEO workflow.",
+        "linkedinProfile": "https://www.linkedin.com/company/scalenut"
+    },
+    {
+        "id": "58",
+        "name": "Enterpret",
+        "founded": 2020,
+        "founders": [
+            "Varun Sharma",
+            "Arnav Sharma"
+        ],
+        "website": "https://www.enterpret.com/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEr-jpTqQ2ACA/company-logo_200_200/company-logo_200_200/0/1697824712235/enterpret_logo?e=1756339200&v=beta&t=1HZ3kr5NyPyS1ZprnCRw6gJzXs-HOkqgHzMCDa7-S1w",
+        "description": "AI-powered customer feedback intelligence platform that transforms raw customer conversations into real-time insights, helping product organizations build strategically and drive revenue.",
+        "linkedinProfile": "https://www.linkedin.com/company/enterpret"
+    },
+    {
+        "id": "59",
+        "name": "NextBillion",
+        "founded": 2020,
+        "founders": [
+            "Ajay Bulusu",
+            "Gaurav Bubna",
+            "Shaolin Zheng"
+        ],
+        "website": "https://nextbillion.ai/",
+        "category": "Industry, Robotics, and IoT",
+        "tags": [
+            "Industry",
+            "Robotics",
+            "and IoT"
+        ],
+        "country": "Singapore",
+        "state": NaN,
+        "city": "Singapore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQG46SYag1bhXg/company-logo_200_200/B56ZdkvhH7H8AQ-/0/1749741867953/nextbillion_ai_logo?e=1756339200&v=beta&t=lv-vR0h6uCtCcQ7Q0F1RTh7ciI7vIHrxcxvEAvbXlFM",
+        "description": "A customizable suite of APIs, SDKs, and tools for routing, optimization, navigation, and tracking applications, helping enterprises adopt an AI-first approach to complex location problems.",
+        "linkedinProfile": "https://www.linkedin.com/company/nextbillion-ai"
+    },
+    {
+        "id": "60",
+        "name": "Murf AI",
+        "founded": 2020,
+        "founders": [
+            "Sneha Roy",
+            "Ankur Edkie",
+            "Divyanshu Pandey"
+        ],
+        "website": "https://murf.ai/",
+        "category": "Language, Communication & Voice",
+        "tags": [
+            "Language",
+            "Communication & Voice"
+        ],
+        "country": "US",
+        "state": "Utah",
+        "city": "Salt Lake City",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHDSpoiCSc14g/company-logo_200_200/company-logo_200_200/0/1728482513737/murf_ai_logo?e=1756339200&v=beta&t=rWnFVeikWFMQJj9TiEjQqUJeDKy_Sp6ORRxFk0saJ_Y",
+        "description": "AI-enabled SaaS tool that allows users to generate human-like voiceovers in minutes without the need for recording equipment.",
+        "linkedinProfile": "https://www.linkedin.com/company/murf-ai"
+    },
+    {
+        "id": "61",
+        "name": "Unscript AI",
+        "founded": 2021,
+        "founders": [
+            "Ritwika Chowdhury"
+        ],
+        "website": "https://www.unscript.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFlFvYvT4pAzQ/company-logo_200_200/company-logo_200_200/0/1704439048873/unscriptai_logo?e=1756339200&v=beta&t=mRpT8cHrjEm8IaPX6-Yo29p7wQ_pDeeOtWDXnPI6bi8",
+        "description": "Enables content creators to generate personalized videos using AI-driven digital avatars.",
+        "linkedinProfile": "https://www.linkedin.com/company/unscriptai/"
+    },
+    {
+        "id": "62",
+        "name": "Expertia AI",
+        "founded": 2021,
+        "founders": [
+            "Kanishk Shukla",
+            "Akshay Gugnani"
+        ],
+        "website": "https://www.expertia.ai/",
+        "category": "Recruitment, HR, Training & EdTech",
+        "tags": [
+            "Recruitment",
+            "HR",
+            "Training & EdTech"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGfWjzOUagYkg/company-logo_200_200/company-logo_200_200/0/1630668918419/expertia_ai_logo?e=1756339200&v=beta&t=V0pqLCkRG2F4SDoMSMk5LEb1vU1pE304Kwnx6H7o3Bk",
+        "description": "Automates recruitment processes using AI",
+        "linkedinProfile": "https://www.linkedin.com/company/expertia-ai/"
+    },
+    {
+        "id": "63",
+        "name": "Beatoven",
+        "founded": 2021,
+        "founders": [
+            "Mansoor Rahimat Khan",
+            "Siddharth Bhardwaj"
+        ],
+        "website": "https://www.beatoven.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQE7F-M3TlC46Q/company-logo_200_200/company-logo_200_200/0/1645696858170/beatovenai_logo?e=1756339200&v=beta&t=hfV-UyVei7km2pWObQ9TDEvO--b2BOvznOQ4rkN7tnM",
+        "description": "AI-generated, royalty-free music tailored for content creators, simplifying music licensing issues",
+        "linkedinProfile": "https://www.linkedin.com/company/beatovenai/"
+    },
+    {
+        "id": "64",
+        "name": "Visual Dub",
+        "founded": 2021,
+        "founders": [
+            "Mandar Natekar"
+        ],
+        "website": "https://visualdub.in/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEuuRzqlNVn3w/company-logo_200_200/company-logo_200_200/0/1659451731626?e=1756339200&v=beta&t=JZ9T2HtAzIds6cIEhcu8RhojO1cEZvJMHSXrlngmG8g",
+        "description": "Video based generative AI technology that creates studio quality LipSync using audio as a controller.",
+        "linkedinProfile": "https://www.linkedin.com/company/neuralgarage/"
+    },
+    {
+        "id": "65",
+        "name": "Blend",
+        "founded": 2021,
+        "founders": [
+            "Vishwanath Kollapudi",
+            "Jamsheed Kamardeen",
+            "Vaibhav Prakash"
+        ],
+        "website": "https://www.blendnow.com/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQH6bFm45j0heQ/company-logo_200_200/company-logo_200_200/0/1651627107116/blenditstudios_logo?e=1756339200&v=beta&t=FWotnoW5P2I-5mvCom2K2V58YKkA-e0KGp6MAzOX-Oo",
+        "description": "AI-powered platform offers e-commerce sellers innovative tools for creating professional product photos and marketing materials efficiently.",
+        "linkedinProfile": "https://www.linkedin.com/company/blenditstudios/"
+    },
+    {
+        "id": "66",
+        "name": "Dubverse",
+        "founded": 2021,
+        "founders": [
+            "Varshul Gupta",
+            "Anuja Dhawan"
+        ],
+        "website": "https://dubverse.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Haryana",
+        "city": "Gurugram",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQG3KKzJnHzGNg/company-logo_200_200/company-logo_200_200/0/1650436856313/dubverse_logo?e=1756339200&v=beta&t=Dy8fGLw7R_pjEz1bf-o3Mg_Si4R6KFpI7czwpZ33q4E",
+        "description": "Generates AI voiceovers for your projects that feel real and relatable rather than cold and mechanical in minutes.",
+        "linkedinProfile": "https://www.linkedin.com/company/dubverse/"
+    },
+    {
+        "id": "67",
+        "name": "Indika AI",
+        "founded": 2021,
+        "founders": [
+            "Hardik Dave"
+        ],
+        "website": "https://www.indikaai.com/",
+        "category": "Legal, Consulting, Research & Human-Centered AI",
+        "tags": [
+            "Legal",
+            "Consulting",
+            "Research & Human-Centered AI"
+        ],
+        "country": "India",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGxapUfDWEDdA/company-logo_200_200/company-logo_200_200/0/1714584114177?e=1756339200&v=beta&t=m5izBhxD57B_VzgddYVoFDYiovX5soQfyrFQGf9J9yA",
+        "description": "Provides high-quality data services and model fine-tuning for enterprises using its human-in-the-loop platform.",
+        "linkedinProfile": "https://www.linkedin.com/company/indikaai/"
+    },
+    {
+        "id": "68",
+        "name": "Dualite",
+        "founded": 2021,
+        "founders": [
+            "Rohan Singhvi",
+            "Prakhar Tandon"
+        ],
+        "website": "https://www.dualite.dev/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Rajasthan",
+        "city": "Jodhpur",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEpbE46wjSOoQ/company-logo_200_200/B4DZeg701pGYAI-/0/1750751727812/dualitedev_logo?e=1756339200&v=beta&t=HgSQUmogqqbVj-1ub8qJEwmaVPMZhLL_secl8jkIKI8",
+        "description": "AI-powered frontend tool that turns Figma designs or text prompts into clean, production-ready code instantly in the browser.",
+        "linkedinProfile": "https://www.linkedin.com/company/dualitedev/"
+    },
+    {
+        "id": "69",
+        "name": "Coulomb AI",
+        "founded": 2021,
+        "founders": [
+            "Khushboo Shrivastava",
+            "Santanu Mondal"
+        ],
+        "website": "https://coulomb.ai/",
+        "category": "Industry, Robotics, and IoT",
+        "tags": [
+            "Industry",
+            "Robotics",
+            "and IoT"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQE7aHcGc4llIA/company-logo_200_200/company-logo_200_200/0/1679037834883/coulomb_ai_logo?e=1756339200&v=beta&t=UeFW_0XiH3dnaZF_WEvSogdrk2aTUHwk4HaISBfnpYQ",
+        "description": "Battery observability platform for electric vehicles using AI.",
+        "linkedinProfile": "https://www.linkedin.com/company/coulomb-ai/"
+    },
+    {
+        "id": "70",
+        "name": "Spark Studio",
+        "founded": 2021,
+        "founders": [
+            "Anushree Goenka",
+            "Namita Goel",
+            "Kaustubh Khade",
+            "Jyothika Sahajanandan"
+        ],
+        "website": "https://sparkstudio.co/",
+        "category": "Recruitment, HR, Training & EdTech",
+        "tags": [
+            "Recruitment",
+            "HR",
+            "Training & EdTech"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQH8f3YVQul6JA/company-logo_200_200/company-logo_200_200/0/1630652352421?e=1756339200&v=beta&t=GiroCK5lrtzBYtrMxOAA4gM1ftS1XHnnQ24kjy7K2KM",
+        "description": "AI-driven platform that helps kids improve spoken English through interactive conversations with a friendly avatar.",
+        "linkedinProfile": "https://www.linkedin.com/company/sparky-ai-buddy/"
+    },
+    {
+        "id": "71",
+        "name": "Contlo",
+        "founded": 2021,
+        "founders": [
+            "Ishaan Bhola",
+            "Mukunda N"
+        ],
+        "website": "https://contlo.com/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "Delaware",
+        "city": "Newark",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGEM6MfJU-_EQ/company-logo_200_200/company-logo_200_200/0/1688992630374/contlo_logo?e=1756339200&v=beta&t=akJBpQIynaVSYqf5rYRdltZK7UkLnS7jRLqfkbBt-EY",
+        "description": "Offers tools to automate and optimize marketing campaigns using AI.",
+        "linkedinProfile": "https://www.linkedin.com/company/79947820/"
+    },
+    {
+        "id": "72",
+        "name": "Upliance",
+        "founded": 2021,
+        "founders": [
+            "Mahek Mody",
+            "Mohit Sharma"
+        ],
+        "website": "https://upliance.ai/",
+        "category": "Industry, Robotics, and IoT",
+        "tags": [
+            "Industry",
+            "Robotics",
+            "and IoT"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHtat7vqJaH4w/company-logo_200_200/company-logo_200_200/0/1706547194136/upliance_logo?e=1756339200&v=beta&t=rL-n5P7qUV4qbr3pt-5n_Jm4vzBqMa-2X8I-SnxWYk8",
+        "description": "AI-powered home appliance brand, focused on enabling both beginners and seasoned cooks to prepare outstanding meals without stress or hassle.",
+        "linkedinProfile": "https://www.linkedin.com/company/upliance/"
+    },
+    {
+        "id": "73",
+        "name": "Kroop",
+        "founded": 2021,
+        "founders": [
+            "Dr. Jyoti Joshi",
+            "Milan Chaudhari",
+            "Sarthak Gupta"
+        ],
+        "website": "https://kroop.ai/",
+        "category": "Media & Entertainment, Synthetic Media Creation & Detection",
+        "tags": [
+            "Media & Entertainment",
+            "Synthetic Media Creation & Detection"
+        ],
+        "country": "India",
+        "state": "Gujarat",
+        "city": "Gandhinagar",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHo67ZSM1UufA/company-logo_200_200/company-logo_200_200/0/1642241241783?e=1756339200&v=beta&t=nuP2eAiWisE-QUPRn2J13xkuXOcaryoLpe_TQ0wV0UY",
+        "description": "Develops AI solutions for synthetic media creation and detection, including deepfake detection and AI-generated video tools.",
+        "linkedinProfile": "https://www.linkedin.com/company/kroop-ai/"
+    },
+    {
+        "id": "74",
+        "name": "Humantic",
+        "founded": 2021,
+        "founders": [
+            "Amarpreet Kalkat"
+        ],
+        "website": "https://humantic.ai/",
+        "category": "Recruitment, HR, Training & EdTech",
+        "tags": [
+            "Recruitment",
+            "HR",
+            "Training & EdTech"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Palo Alto",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQEKsA0Lua2gSQ/company-logo_200_200/company-logo_200_200/0/1630614385130/humantic_ai_logo?e=1756339200&v=beta&t=1oLOLorYm9gVKH-DGTIo_7MxgRV0IW4i7QdtCBlmW54",
+        "description": "Offers AI-powered personality insights to enhance sales and hiring processes.",
+        "linkedinProfile": "https://www.linkedin.com/company/humantic-ai/"
+    },
+    {
+        "id": "75",
+        "name": "Prismforce",
+        "founded": 2021,
+        "founders": [
+            "Somnath Chatterjee",
+            "Mohd Qasim"
+        ],
+        "website": "https://prismforce.com/",
+        "category": "Recruitment, HR, Training & EdTech",
+        "tags": [
+            "Recruitment",
+            "HR",
+            "Training & EdTech"
+        ],
+        "country": "India",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGXghxJ1caCwg/company-logo_200_200/company-logo_200_200/0/1706956834970/prismforce_logo?e=1756339200&v=beta&t=OuXFBPu1Yby7ZXEa1JvY3aTGQUGNcgn6uEJfXG3MSco",
+        "description": "A talent supply chain platform powered by AI to help IT services companies manage and deploy talent effectively.",
+        "linkedinProfile": "https://www.linkedin.com/company/prismforce/"
+    },
+    {
+        "id": "76",
+        "name": "Zocket",
+        "founded": 2021,
+        "founders": [
+            "Nandha Kumar Ravi",
+            "Sundar Natesan",
+            "Mukund Srivathsan",
+            "Karthik Venkateswaran"
+        ],
+        "website": "https://zocket.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQElBpJovcbFuA/company-logo_200_200/company-logo_200_200/0/1721030994066/zocketdigital_logo?e=1756339200&v=beta&t=C8TdQSipUChxOrSujiEP5gMT9xNlfkpNyWbgBpNEBUw",
+        "description": "Generative AI platform that enables businesses to effortlessly launch and manage social media ads, leveraging AI to simplify advertising for both small enterprises and large-scale businesses.",
+        "linkedinProfile": "https://www.linkedin.com/company/zocketdigital"
+    },
+    {
+        "id": "77",
+        "name": "Goodmeetings",
+        "founded": 2021,
+        "founders": [
+            "Srinivasan Narayan",
+            "Soumya Ranjan Mohapatra",
+            "Alok Mishra",
+            "Abhijeet Sahoo"
+        ],
+        "website": "https://goodmeetings.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Los Angeles",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFejeKK1_xmkw/company-logo_200_200/company-logo_200_200/0/1687851906472/goodmeetings_logo?e=1756339200&v=beta&t=FUlB0qFQf4KszR_EtqR6F78JMfxC_o_DngKc6JcfY8M",
+        "description": "AI-powered Meeting Insights & Automation Platform that transforms customer-facing revenue teams into productive high-performance units by recording, transcribing, and generating AI-powered human-level notes and action items.",
+        "linkedinProfile": "https://in.linkedin.com/company/goodmeetings"
+    },
+    {
+        "id": "78",
+        "name": "Floworks",
+        "founded": 2021,
+        "founders": [
+            "Sudipta Biswas",
+            "Sarthak Shrivastava"
+        ],
+        "website": "https://www.floworks.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGPmZISWl46Lg/company-logo_200_200/company-logo_200_200/0/1690547633813/floworkssolutions_logo?e=1756339200&v=beta&t=w73YIZV2v1D1ocmpk5v8t0u33ACX8asw_P0y_T4XE_Q",
+        "description": "AI platform that automates sales processes by providing AI-powered employees to handle tasks like lead research, personalized outreach, and scheduling, aiming to boost sales efficiency and scale revenue.",
+        "linkedinProfile": "https://www.linkedin.com/company/floworkssolutions/"
+    },
+    {
+        "id": "79",
+        "name": "Thelightbulb",
+        "founded": 2021,
+        "founders": [
+            "Ritu Soni Srivastava",
+            "Vishal Soni",
+            "Yogesh Sachdeva"
+        ],
+        "website": "https://thelightbulb.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "India",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHm4JzvmEowIQ/company-logo_200_200/company-logo_200_200/0/1719255717255/getthelightbulb_logo?e=1756339200&v=beta&t=cQurOR-DcbB-j7a48Y6uPBZKDB6km8VUXchbxzk5Y_A",
+        "description": "A full-stack Emotion AI platform that combines visual AI (facial coding and eye-tracking) and conversational AI (speech transcription and audio analysis) to generate real-time emotion insights for digital interactions.",
+        "linkedinProfile": "https://www.linkedin.com/company/getthelightbulb/"
+    },
+    {
+        "id": "80",
+        "name": "Longshot",
+        "founded": 2021,
+        "founders": [
+            "Ankur Pandey",
+            "Anushree Bishnoi"
+        ],
+        "website": "https://www.longshot.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "Delaware",
+        "city": "Denver",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHlz0nzgIaw_w/company-logo_200_200/company-logo_200_200/0/1630649680919/longshot_ai_logo?e=1756339200&v=beta&t=erCEO7Byd95y-4YTrhyKF61AbguQ1gHJuUOX8biqqd0",
+        "description": "AI-driven content generation platform that empowers marketers, writers, and businesses to create high-quality, long-form content with ease, offering tools for brainstorming, drafting, fact-checking, and editing.",
+        "linkedinProfile": "https://www.linkedin.com/company/longshot-ai"
+    },
+    {
+        "id": "81",
+        "name": "Navikenz",
+        "founded": 2021,
+        "founders": [
+            "Anjan Lahiri",
+            "Samit Deb",
+            "Balaji Krishnan"
+        ],
+        "website": "https://navikenz.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "New Jersey",
+        "city": "Princeton",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQG9cR7oxNYyMg/company-logo_200_200/company-logo_200_200/0/1735968907397/navikenz_logo?e=1756339200&v=beta&t=LNuRRJPLPBY8t4C5dlmEc5ECUmgwaVblftObQR28E9Y",
+        "description": "AI consulting firm that enables organizations to implement AI solutions to improve business processes, with a focus on customer relationship management, risk management, and strategy.",
+        "linkedinProfile": "https://www.linkedin.com/company/navikenz"
+    },
+    {
+        "id": "82",
+        "name": "RagaAI",
+        "founded": 2021,
+        "founders": [
+            "Gaurav Agarwal"
+        ],
+        "website": "https://raga.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGkcBBsyXqIKg/company-logo_200_200/company-logo_200_200/0/1700641160893/raga_ai_logo?e=1756339200&v=beta&t=6hp6MDdk7Z-ugPN-wOcrpvF0asGcS3WbYrTOSeFDH04",
+        "description": "An automated platform to detect, diagnose, and fix AI issues on the fly, aiming to improve AI reliability and reduce human intervention.",
+        "linkedinProfile": "https://www.linkedin.com/company/raga-ai/posts/?feedView=all"
+    },
+    {
+        "id": "83",
+        "name": "Dhiwise",
+        "founded": 2021,
+        "founders": [
+            "Vishal Virani",
+            "Rahul Shingala"
+        ],
+        "website": "https://www.dhiwise.com/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Gujarat",
+        "city": "Surat",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGatjrW_riJWg/company-logo_200_200/B4DZbotLiWHQAI-/0/1747660880596/rocketdotnew_logo?e=1756339200&v=beta&t=FPaelLtWPJRSQu8LTVEvaBlsbDoTg2hRXJrA6gc4e50",
+        "description": "A programming platform where developers can convert their designs into developer-friendly code for mobile and web apps, aiming to accelerate software development without hampering the developer experience.",
+        "linkedinProfile": "https://www.linkedin.com/company/dhiwise"
+    },
+    {
+        "id": "84",
+        "name": "TWO",
+        "founded": 2021,
+        "founders": [
+            "Pranav Mistry"
+        ],
+        "website": "https://www.two.ai/",
+        "category": "Language, Communication & Voice",
+        "tags": [
+            "Language",
+            "Communication & Voice"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGXyhrO0Chl6g/company-logo_200_200/company-logo_200_200/0/1715198812046/twoplatforms_logo?e=1756339200&v=beta&t=pdPUIBzedMvbJpxkKFjPDWDP0-WiJvVD5Cce_vgsHyk",
+        "description": "Solutions for non-English markets through its proprietary multilingual and cost-efficient language models, SUTRA.",
+        "linkedinProfile": "https://www.linkedin.com/company/twoplatforms"
+    },
+    {
+        "id": "85",
+        "name": "Dashwave",
+        "founded": 2022,
+        "founders": [
+            "Yash Khandelwal",
+            "Supratik Das"
+        ],
+        "website": "https://dashwave.io/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEgpiwqq58B6w/company-logo_200_200/company-logo_200_200/0/1704279088673/dashwave_logo?e=1756339200&v=beta&t=ssodLFRZWOivdOpYPKaAV0WYQAEF7QmofHDxQ_039RY",
+        "description": "Accelerates mobile app development with fast builds, shareable emulators, and code generation from prompts or designs.",
+        "linkedinProfile": "https://www.linkedin.com/company/dashwave/"
+    },
+    {
+        "id": "86",
+        "name": "Mockey",
+        "founded": 2022,
+        "founders": [
+            "Pranay Agarwal"
+        ],
+        "website": "https://mockey.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": NaN,
+        "city": "New Delhi",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEB3M4kZeF-jw/company-logo_200_200/company-logo_200_200/0/1709035558908/mockey_ai_logo?e=1756339200&v=beta&t=CdHyeorYqbGO_UpEZcXgNA6LuxQ3xaulXlmgICJvhRk",
+        "description": "Generates professional product mockups and AI product photography from your designs or photos with a vast library of premium templates.",
+        "linkedinProfile": "https://www.linkedin.com/company/mockey-ai/"
+    },
+    {
+        "id": "87",
+        "name": "Bharat Bot",
+        "founded": 2022,
+        "founders": [
+            "Gaurav Ahlawat"
+        ],
+        "website": "https://bharatbot.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Haryana",
+        "city": "Gurugram",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHi_oxCxLtGgw/company-logo_200_200/company-logo_200_200/0/1695234560876?e=1756339200&v=beta&t=rYLe1d4uELCYIaT4OXi0M66Dsc29uHMOiN0MXGixW_I",
+        "description": "Elevates customer interactions with an AI-powered, no-code chatbot platform featuring ChatGPT integration, proactive engagement, and robust analytics for WhatsApp and marketing automation.",
+        "linkedinProfile": "https://www.linkedin.com/company/bharatbot/"
+    },
+    {
+        "id": "88",
+        "name": "Revrag",
+        "founded": 2022,
+        "founders": [
+            "Ashutosh Singh",
+            "Pankaj Gupta"
+        ],
+        "website": "https://www.revrag.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHFU453heyQlQ/company-logo_200_200/company-logo_200_200/0/1723113629757/revragai_logo?e=1756339200&v=beta&t=p1zYOqYJqFX4aI8e_I_5f7nrpXnob9j237N5YvJ9KTk",
+        "description": "Multilingual, compliance-ready AI agents that automate sales and customer engagement workflows for BFSI teams across voice, chat, and email channels",
+        "linkedinProfile": "https://www.linkedin.com/company/revragai/"
+    },
+    {
+        "id": "89",
+        "name": "QuickReel",
+        "founded": 2022,
+        "founders": [
+            "Ayush Sharma",
+            "Ansh Vashistha"
+        ],
+        "website": "https://www.quickreel.io/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": NaN,
+        "city": "New Delhi",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFmjBta0v240w/company-logo_200_200/company-logo_200_200/0/1736525008180/quickreel_logo?e=1756339200&v=beta&t=Aqv15MFMBJ4wzGP1fE14_WWoeIasMLyup3Bs37DoPhs",
+        "description": "AI clipping tool to create data-driven viral short clips from long videos.",
+        "linkedinProfile": "http://linkedin.com/company/quickreel/"
+    },
+    {
+        "id": "90",
+        "name": "CodeMate",
+        "founded": 2022,
+        "founders": [
+            "Ayush Singhal"
+        ],
+        "website": "https://codemate.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Uttar Pradesh",
+        "city": "Noida",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGIIap4hdvZpg/company-logo_200_200/company-logo_200_200/0/1711220425653/codemateai_logo?e=1756339200&v=beta&t=ZcdzfxxLI-7Y--oqGGWBnOYymRipd80jEDf3rwEAXNk",
+        "description": "AI programming assistant integrated with Visual Studio Code, aiding in code analysis and debugging.",
+        "linkedinProfile": "https://www.linkedin.com/company/codemateai/"
+    },
+    {
+        "id": "91",
+        "name": "Phot",
+        "founded": 2022,
+        "founders": [
+            "Venus Dhuria",
+            "Aneesh Rayancha",
+            "Akshit Raja"
+        ],
+        "website": "https://www.phot.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Haryana",
+        "city": "Gurugram",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFIFwePpy5z-w/company-logo_200_200/company-logo_200_200/0/1730886088262/phot_ai_logo?e=1756339200&v=beta&t=gealyEC2z3dJZMZMHxgmy-RxbXy9y0ofebhun1fDukI",
+        "description": "Provides AI tools for image editing and enhancement.",
+        "linkedinProfile": "https://www.linkedin.com/company/phot-ai/"
+    },
+    {
+        "id": "92",
+        "name": "Vodex",
+        "founded": 2022,
+        "founders": [
+            "Anshul Shrivastava"
+        ],
+        "website": "https://www.vodex.ai/",
+        "category": "Language, Communication & Voice",
+        "tags": [
+            "Language",
+            "Communication & Voice"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFw5gKZhqGoYg/company-logo_200_200/company-logo_200_200/0/1730281196726/vodexai_logo?e=1756339200&v=beta&t=yfrqdGfeGd8Tzdv-Xs7Bq8N42EFCKYdYUikuXyB83to",
+        "description": "Offers AI-driven voice solutions to automate customer interactions.",
+        "linkedinProfile": "https://www.linkedin.com/company/vodexai/"
+    },
+    {
+        "id": "93",
+        "name": "Insight AI",
+        "founded": 2022,
+        "founders": [
+            "Akash Chandra"
+        ],
+        "website": "https://insightai.in/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "India",
+        "state": NaN,
+        "city": "New Delhi",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG94-dH5pTQ7w/company-logo_200_200/company-logo_200_200/0/1696094422319/insightai_technologies_logo?e=1756339200&v=beta&t=aE0Ybs5doWZPpifW5AsWP6veOI8_J2ztlBavujU-gPI",
+        "description": "AI-powered real-time fraud detection and AML solutions for financial institutions and fintechs",
+        "linkedinProfile": "https://www.linkedin.com/company/insightai-technologies/"
+    },
+    {
+        "id": "94",
+        "name": "MySivi",
+        "founded": 2022,
+        "founders": [
+            "Akshay Sanghai",
+            "Shivam Gupta",
+            "Anoop Jaiswal"
+        ],
+        "website": "https://www.mysivi.ai/",
+        "category": "Language, Communication & Voice",
+        "tags": [
+            "Language",
+            "Communication & Voice"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQF1ptqCSN7OAA/company-logo_200_200/company-logo_200_200/0/1671974253366/speakifyai_logo?e=1756339200&v=beta&t=5QRe078vCE-0Waomw38ud02KAnPvMSNRQ-8PxEGPYwo",
+        "description": "AI-powered English speaking tutor app combining AI and human interaction for rapid language learning.",
+        "linkedinProfile": "https://www.linkedin.com/company/mysivi/"
+    },
+    {
+        "id": "95",
+        "name": "CodeParrot",
+        "founded": 2022,
+        "founders": [
+            "Royal Jain",
+            "Vedant Agarwala"
+        ],
+        "website": "https://codeparrot.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGx2xOzi-xhww/company-logo_200_200/company-logo_200_200/0/1719257268986/codeparrotai_logo?e=1756339200&v=beta&t=6QAUCwJ64prTrXqR-Ww14Dilry3rlbfVTFZ7IIZbpJI",
+        "description": "Provides an enterprise tech platform that offers an auto-updating test suite for backend services, generating test cases based on production data.",
+        "linkedinProfile": "https://www.linkedin.com/company/codeparrotai/"
+    },
+    {
+        "id": "96",
+        "name": "TrueFoundry",
+        "founded": 2022,
+        "founders": [
+            "Nikunj Bajaj",
+            "Abhishek Choudhary",
+            "Anuraag Gutgutia"
+        ],
+        "website": "https://www.truefoundry.com/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGQ9Tfeof4MbA/company-logo_200_200/company-logo_200_200/0/1644494262340/truefoundry_logo?e=1756339200&v=beta&t=mPTkaedbutpBy0kLrcQkMHvQ-SNcg7IAgglgonQ4_LQ",
+        "description": "Helps Enterprises develop, deploy and scale Generative AI use cases and realize their business value 10X faster and at half the compute spend.",
+        "linkedinProfile": "https://www.linkedin.com/company/truefoundry/"
+    },
+    {
+        "id": "97",
+        "name": "jhana",
+        "founded": 2022,
+        "founders": [
+            "Hemanth Bharatha Chakravarthy"
+        ],
+        "website": "https://jhana.ai/",
+        "category": "Legal, Consulting, Research & Human-Centered AI",
+        "tags": [
+            "Legal",
+            "Consulting",
+            "Research & Human-Centered AI"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHm3OC-elfdSw/company-logo_200_200/company-logo_200_200/0/1682697745390/jhana_law_logo?e=1756339200&v=beta&t=LqfiCf88Vfgy741QG0ay8IIwV-f7c93zbvFdf74uYcg",
+        "description": "AI legal assistant that helps Indian lawyers with research, drafting, and risk analysis using real-time citations and a vast legal database.",
+        "linkedinProfile": "https://www.linkedin.com/company/jhana-ai"
+    },
+    {
+        "id": "98",
+        "name": "Kombai",
+        "founded": 2022,
+        "founders": [
+            "Dipanjan Dey",
+            "Abhijit Bhole"
+        ],
+        "website": "https://kombai.com/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHrNjyd_qWnmw/company-logo_200_200/B4DZhGR2qCHAAI-/0/1753525742668/kombai_logo?e=1756339200&v=beta&t=frqaud1G-jx5S9Uud63MkI2hk1QPYnLTequrDnqYVlA",
+        "description": "AI tools for front-end developers to convert designs into code.",
+        "linkedinProfile": "https://www.linkedin.com/company/kombai/"
+    },
+    {
+        "id": "99",
+        "name": "Godspeed Systems",
+        "founded": 2022,
+        "founders": [
+            "Ayush Ghai"
+        ],
+        "website": "https://godspeed.systems/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Uttar Pradesh",
+        "city": "Dadri",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGdWFzO9aeEPA/company-logo_200_200/company-logo_200_200/0/1727434115178/godspeed_systems_logo?e=1756339200&v=beta&t=x2IUQLAaiJ4cCp_pU0acj9ZNLEAIp-imLRa1awqy3is",
+        "description": "AI-powered development platform that helps engineers rapidly build, deploy, and manage scalable backend systems with minimal code.",
+        "linkedinProfile": "https://www.linkedin.com/company/godspeed-systems/"
+    },
+    {
+        "id": "100",
+        "name": "Arrowhead",
+        "founded": 2022,
+        "founders": [
+            "Lalit Gupta",
+            "Devyani Gupta",
+            "Chinmay Shah"
+        ],
+        "website": "https://www.arrowhead.team/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGZw7ikVt6GBQ/company-logo_200_200/company-logo_200_200/0/1737547465393/arrowheadapp_logo?e=1756339200&v=beta&t=60OssB0Im21UJHdu8pCg2HmGKW_f5ebN8VYUAKpJJsA",
+        "description": "Human-like AI voice bots for sales, customer service, and scheduling, offering realistic voices, multilingual support, and CRM integration.",
+        "linkedinProfile": "https://www.linkedin.com/company/arrowheadapp"
+    },
+    {
+        "id": "101",
+        "name": "Merlin AI",
+        "founded": 2022,
+        "founders": [
+            "Pratyush Rai",
+            "Siddhartha Saxena",
+            "and Sirsendu Sarkar"
+        ],
+        "website": "https://www.getmerlin.in/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Elk Grove",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEHHx6CEOtNRQ/company-logo_200_200/company-logo_200_200/0/1709542250850/merlin_ai_assistant_logo?e=1756339200&v=beta&t=mggBHMlO0gvYYYssHVlItJt2vfhHLrQvYpGie3-7Nmc",
+        "description": "AI-powered browser extension and web app that integrates various AI models, including ChatGPT, Claude, and Gemini.",
+        "linkedinProfile": "https://www.linkedin.com/company/merlin-ai-by-foyer/"
+    },
+    {
+        "id": "102",
+        "name": "Quso",
+        "founded": 2022,
+        "founders": [
+            "Vedant Maheshwari",
+            "Kushagra Pandya"
+        ],
+        "website": "https://quso.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "New York",
+        "city": "New York",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFbFtcXl7BgQQ/company-logo_200_200/company-logo_200_200/0/1732533595965/quso_ai_logo?e=1756339200&v=beta&t=xn7W3dMmRBoHKkpbXEpiXX8PXXXj1Ce7CFe7gN6Gg04",
+        "description": "AI marketing platform that enables creators and businesses to transform long-form content into engaging short-form videos, automate social media management, and analyze performance metrics\u2014all from a single interface.",
+        "linkedinProfile": "https://www.linkedin.com/company/quso-ai/"
+    },
+    {
+        "id": "103",
+        "name": "Hypergro",
+        "founded": 2022,
+        "founders": [
+            "Rituraj Biswas",
+            "Neha Soman",
+            "Abhijeet Kumar",
+            "Arijit Mukhopadhyay"
+        ],
+        "website": "https://hypergro.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF8TJbLqZnCuA/company-logo_200_200/B56ZbufhpqHgAQ-/0/1747757964347/hypergro_logo?e=1756339200&v=beta&t=H946_LiC_f3OBgkCcSSGpywjXrHccpfQR63NXxVx6wA",
+        "description": "AI-powered platform that enables brands to create personalized video ads using user-generated content (UGC).",
+        "linkedinProfile": "https://www.linkedin.com/company/hypergro/"
+    },
+    {
+        "id": "104",
+        "name": "Atomicwork",
+        "founded": 2022,
+        "founders": [
+            "Vijay Rayapati",
+            "Kiran Darisi",
+            "Parsuram Vijayasankar"
+        ],
+        "website": "https://www.atomicwork.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Palo Alto",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF6jGNSDAMa2g/company-logo_200_200/B56ZZeXRWHGkAI-/0/1745339881861/atomicworkhq_logo?e=1756339200&v=beta&t=MFEleC4t19AP-dNr0uH0-lW2TvTL26_vV3sr2Tsyhkw",
+        "description": "AI-powered employee experience platform that streamlines IT service management and operations",
+        "linkedinProfile": "https://www.linkedin.com/company/atomicworkhq/"
+    },
+    {
+        "id": "105",
+        "name": "Unifyapps",
+        "founded": 2022,
+        "founders": [
+            "Sujay Tyle",
+            "Abhishek Nayak"
+        ],
+        "website": "https://www.unifyapps.com/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Haryana",
+        "city": "Gurugram",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEzlq_S6Z5JOQ/company-logo_200_200/company-logo_200_200/0/1703853215171/unifyapps_logo?e=1756339200&v=beta&t=AbWd2Yp8_gdcxeMdoe_PFJ3RFF4eGv5iMfwfZkcEHGU",
+        "description": "A no-code platform that allows businesses to build and deploy AI-powered applications quickly.",
+        "linkedinProfile": "https://www.linkedin.com/company/unifyapps/"
+    },
+    {
+        "id": "106",
+        "name": "MaxIQ",
+        "founded": 2022,
+        "founders": [
+            "Sonny Aulakh",
+            "Sunny Rai"
+        ],
+        "website": "https://www.getmaxiq.com/",
+        "category": "Media & Entertainment, Synthetic Media Creation & Detection",
+        "tags": [
+            "Media & Entertainment",
+            "Synthetic Media Creation & Detection"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFOzei-gdkjkQ/company-logo_200_200/B4DZVno1rdGcAI-/0/1741200514199/getmaxiq_logo?e=1756339200&v=beta&t=bm6zH3XCh-Qex2ytkEQL6kbY33jfnCxlpNKh7seVJgY",
+        "description": "AI-driven video editing solutions tailored for enterprises and individual content creators.",
+        "linkedinProfile": "https://www.linkedin.com/company/getmaxiq/"
+    },
+    {
+        "id": "107",
+        "name": "Samaya",
+        "founded": 2022,
+        "founders": [
+            "Maithra Raghu",
+            "Fabio Petroni"
+        ],
+        "website": "https://samaya.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "UK",
+        "state": "England",
+        "city": "London",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFFqQGcKR0hzQ/company-logo_200_200/company-logo_200_200/0/1719826055771/samaya_ai_logo?e=1756339200&v=beta&t=acWIMzPWB7aP4QvAdxIECZolwVC9JzGujlQjy-RehcQ",
+        "description": "Builds AI agents to automate financial analysis, reporting, and decision-making for investment firms.",
+        "linkedinProfile": "https://www.linkedin.com/company/samaya-ai/"
+    },
+    {
+        "id": "108",
+        "name": "Alltius",
+        "founded": 2022,
+        "founders": [
+            "Vibhanshu Abhishek",
+            "Siddhant Mishra"
+        ],
+        "website": "https://www.alltius.ai/",
+        "category": "Customer Service & Engagement",
+        "tags": [
+            "Customer Service & Engagement"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Los Angeles",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHnj5DCWtlxmA/company-logo_200_200/company-logo_200_200/0/1667313415123/alltius_logo?e=1756339200&v=beta&t=wf3LOo-14Bg-XoBWzKEuST2ZHFlKMb9kWVgqf1AUyn4",
+        "description": "AI-driven platform for conversational assistance in software products, enhancing user engagement and support.",
+        "linkedinProfile": "https://www.linkedin.com/company/alltius/"
+    },
+    {
+        "id": "109",
+        "name": "GobbleCube",
+        "founded": 2022,
+        "founders": [
+            "Manas Gupta",
+            "Nitesh Jindal",
+            "Srikumar Nair"
+        ],
+        "website": "https://gobblecube.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Haryana",
+        "city": "Gurugram",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE0APKWQlGc4Q/company-logo_200_200/company-logo_200_200/0/1692601465028/gobblecube_logo?e=1756339200&v=beta&t=Z2UPh1DyfXdnVtQJdebTU3oWflHhMNx4dcDNsThHtNY",
+        "description": "AI-based revenue platform for brands, enabling automated revenue monitoring and root cause analysis.",
+        "linkedinProfile": "https://www.linkedin.com/company/gobblecube/"
+    },
+    {
+        "id": "110",
+        "name": "OnFinance",
+        "founded": 2022,
+        "founders": [
+            "Anuj Srivastava",
+            "Priyesh Srivastava"
+        ],
+        "website": "https://www.onfinance.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGBSjlfL5nAaQ/company-logo_200_200/company-logo_200_200/0/1672349945649/onfinanceofficial_logo?e=1756339200&v=beta&t=3sLBQjljMW2uhps_c6vcAUDIWldv697fppGuOgHAydQ",
+        "description": "Develops AI agents to simplify and strengthen regulatory processes in the BFSI sector, supporting regulators like SEBI and RBI.",
+        "linkedinProfile": "https://www.linkedin.com/company/onfinanceofficial/"
+    },
+    {
+        "id": "111",
+        "name": "Fuzen",
+        "founded": 2022,
+        "founders": [
+            "Pushkar Gaikwad"
+        ],
+        "website": "https://fuzen.io/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Maharashtra",
+        "city": "Nashik",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQETHMrF0nnNqQ/company-logo_200_200/company-logo_200_200/0/1630632197010/fuzen_io_logo?e=1756339200&v=beta&t=D-BgSdHH75_PEMsGHKkJ4acRaVo_GLlTEdTWhBMe_rA",
+        "description": "A no-code platform that combines generative AI with customizable tools to help users build scalable SaaS applications without coding.",
+        "linkedinProfile": "https://www.linkedin.com/company/fuzen-io/"
+    },
+    {
+        "id": "112",
+        "name": "Truto",
+        "founded": 2022,
+        "founders": [
+            "Roopendra Talekar",
+            "Nachi Raman"
+        ],
+        "website": "https://truto.one/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "Oregon",
+        "city": "Beaverton",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEiY5S5P5fIrA/company-logo_200_200/company-logo_200_200/0/1669907621716/gettruto_logo?e=1756339200&v=beta&t=rvsKOZiw09UATr8BwtlTBYzR9c5qjLzfrEtfMWyu7MA",
+        "description": "A unified API service that helps companies unlock integrations as a growth and retention channel.",
+        "linkedinProfile": "https://www.linkedin.com/company/gettruto"
+    },
+    {
+        "id": "113",
+        "name": "Babblebots",
+        "founded": 2022,
+        "founders": [
+            "Roli Gupta",
+            "Dhruv Jaglan"
+        ],
+        "website": "https://babblebots.ai/",
+        "category": "Recruitment, HR, Training & EdTech",
+        "tags": [
+            "Recruitment",
+            "HR",
+            "Training & EdTech"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Palo Alto",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFkQmp3gcAlCA/company-logo_200_200/company-logo_200_200/0/1705270278084/babblebots_logo?e=1756339200&v=beta&t=vqL7YlK8cgyvVMxZ7v8uVw7HDYvApsdJ95rebGlAO3I",
+        "description": "A recruitment and talent acquisition platform that uses voice technology, conversational intelligence, and proprietary AI algorithms to interview and assess candidates for technical and non-technical roles through AI-Recruiters.",
+        "linkedinProfile": "https://www.linkedin.com/company/babblebots"
+    },
+    {
+        "id": "114",
+        "name": "CogniSwitch",
+        "founded": 2022,
+        "founders": [
+            "Dilip Ittyera",
+            "Joshua Thomas",
+            "Vivek Khandelwal"
+        ],
+        "website": "https://www.cogniswitch.ai/",
+        "category": "Legal, Consulting, Research & Human-Centered AI",
+        "tags": [
+            "Legal",
+            "Consulting",
+            "Research & Human-Centered AI"
+        ],
+        "country": "US",
+        "state": "Delaware",
+        "city": "Dover",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFKqhPc-Su_JQ/company-logo_200_200/company-logo_200_200/0/1714892492005/cogniswitch_inc_logo?e=1756339200&v=beta&t=xz0IX2RLvV0djuCJTxvL7zdQtdzAgvJ7x60K3Tvuy6g",
+        "description": "AI-based knowledge management solutions company that provides a platform enabling large language models (LLMs) to reason and be safely used in end-user applications.",
+        "linkedinProfile": "https://www.linkedin.com/company/cogniswitch-inc"
+    },
+    {
+        "id": "115",
+        "name": "Maino",
+        "founded": 2022,
+        "founders": [
+            "Abhijeet Kunwar",
+            "Rishabh Kumar",
+            "Vikas Keshri"
+        ],
+        "website": "https://maino.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "Delaware",
+        "city": "Dover",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFgCLFM-qwOHA/company-logo_200_200/B56ZXNABkxHEAI-/0/1742901091606/mainoai_logo?e=1756339200&v=beta&t=QD0tTrXxOZ8TIUBZNMvWmVX4tnMP6taA-CRZWGVHAss",
+        "description": "AI & ML driven digital marketing automation platform that connects with your data, drives creative intelligence, automates optimization, and evolves with constant feedback to drive results.",
+        "linkedinProfile": "https://www.linkedin.com/company/mainoai"
+    },
+    {
+        "id": "116",
+        "name": "Ayna",
+        "founded": 2022,
+        "founders": [
+            "Gaurav Batra",
+            "Nick Santhanam"
+        ],
+        "website": "https://www.ayna.ai/",
+        "category": "Industry, Robotics, and IoT",
+        "tags": [
+            "Industry",
+            "Robotics",
+            "and IoT"
+        ],
+        "country": "US",
+        "state": "Missouri",
+        "city": "Federal",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFiJ5Ti7Pu2XA/company-logo_200_200/company-logo_200_200/0/1732035506231/ayna_ai_logo?e=1756339200&v=beta&t=aGOC4sqTtYRHn6jNkVsdSZVs6U_JAytw0I5Aw1uJQQg",
+        "description": "A premier advisory and implementation firm in the industrial technology space, focusing on performance improvement and value creation through customized partnerships.",
+        "linkedinProfile": "https://www.linkedin.com/company/ayna-ai/"
+    },
+    {
+        "id": "117",
+        "name": "GPUnet",
+        "founded": 2022,
+        "founders": [
+            "Suraj Chawla",
+            "Kirubakaran Reddy"
+        ],
+        "website": "https://gpu.net/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "UAE",
+        "state": NaN,
+        "city": "Abu Dhabi",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFE1SX-h9iFVA/company-logo_200_200/company-logo_200_200/0/1725362135560/gpunet_logo?e=1756339200&v=beta&t=cCUTWw9SulW8uo04l7e3BpFMdTleokx4G9A4KqyxK3s",
+        "description": "A decentralized network of GPUs, allowing individuals to contribute their resources and democratize GPU computing power.",
+        "linkedinProfile": "https://www.linkedin.com/company/gpunet/"
+    },
+    {
+        "id": "118",
+        "name": "Athina AI",
+        "founded": 2022,
+        "founders": [
+            "Shiv Sakhuja",
+            "Himanshu Bamoria",
+            "Akshat Gupta"
+        ],
+        "website": "https://athina.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFBKqMEfHf_dw/company-logo_200_200/company-logo_200_200/0/1689163032249/magik_labs_logo?e=1756339200&v=beta&t=ioaTsS-XkcsPP6ACKaZ1XEq4ZEZm3hJQVB9HeCB9Ivk",
+        "description": "A collaborative platform for LLM developers to prototype, experiment, evaluate, and monitor production-grade AI pipelines.",
+        "linkedinProfile": "https://www.linkedin.com/company/athina-ai"
+    },
+    {
+        "id": "119",
+        "name": "OptIQ AI",
+        "founded": 2022,
+        "founders": [
+            "Keshav Murthy",
+            "Harsh Sahu"
+        ],
+        "website": "https://www.optiq.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Palo Alto",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQG1AUwUh7XzqA/company-logo_200_200/company-logo_200_200/0/1661844819478/optiqai_logo?e=1756339200&v=beta&t=w4eOn5k03jpQsefPHhz6NqpTytGkRJlu_IGFDUYvdHA",
+        "description": "AI-powered data security platform designed to protect sensitive information across cloud infrastructures.",
+        "linkedinProfile": "https://www.linkedin.com/company/optiqai"
+    },
+    {
+        "id": "120",
+        "name": "Hexo",
+        "founded": 2022,
+        "founders": [
+            "Vignesh Baskaran",
+            "Kunal Bhatia"
+        ],
+        "website": "https://hexo.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Santa Clara",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGOY6JirKL8EQ/company-logo_200_200/company-logo_200_200/0/1693218438899/hexo_ai_logo?e=1756339200&v=beta&t=UI7Tir7rMF4MSyPwSs9SwWSWhc3eYVvf0elrXsw8iqI",
+        "description": "AI-based image generation and editing platform that enables users to build images tailored to their specific needs.",
+        "linkedinProfile": "https://www.linkedin.com/company/hexo-ai"
+    },
+    {
+        "id": "121",
+        "name": "Hanooman AI",
+        "founded": 2023,
+        "founders": [
+            "Dr. Vishnu Vardhan"
+        ],
+        "website": "https://hanooman.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE9H--42Yctxg/company-logo_200_200/B4EZT6mp4BHUAM-/0/1739371225096?e=1756339200&v=beta&t=s9iA_MQZ8__HaAy_yLffPAY6uzd2yH1senHQUOEBLCk",
+        "description": "Multilingual, multimodal Indian large language model supporting 98 languages for text, speech, image, and video generation across sectors like healthcare, education, and BFSI",
+        "linkedinProfile": "https://www.linkedin.com/company/hanooman-ai/"
+    },
+    {
+        "id": "122",
+        "name": "Sarvam AI",
+        "founded": 2023,
+        "founders": [
+            "Dr. Vivek Raghavan",
+            "Dr. Pratyush Kumar"
+        ],
+        "website": "https://www.sarvam.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGGV0-7bo0d0A/company-logo_200_200/company-logo_200_200/0/1724144560061/sarvam_ai_logo?e=1756339200&v=beta&t=2-9VL5HqosCQwf-NhtZ3__bSe8UYhyOlAE3AhejWT2g",
+        "description": "Builds enterprise-grade generative AI solutions for India, focusing on Indic languages and custom models.",
+        "linkedinProfile": "https://www.linkedin.com/company/sarvam-ai/"
+    },
+    {
+        "id": "123",
+        "name": "Ostrich AI",
+        "founded": 2023,
+        "founders": [
+            "Mihir Thakkar"
+        ],
+        "website": "https://www.ostrich-ai.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG0XBpyaxDOTA/company-logo_200_200/B4DZXNa1ONGkAI-/0/1742908120189/ostrichai_logo?e=1756339200&v=beta&t=ql6jhPbTKqwCBfcBLgpnU9JBTCDV4fji7Nb_ySVzmyI",
+        "description": "Makes AI/ML accessible and affordable with secure, collaborative tools.",
+        "linkedinProfile": "https://www.linkedin.com/company/ostrichai/"
+    },
+    {
+        "id": "124",
+        "name": "GoCodeo AI",
+        "founded": 2023,
+        "founders": [
+            "Meghana Jagadeesh"
+        ],
+        "website": "https://www.gocodeo.com/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQE_zFe7TaYGRw/company-logo_200_200/company-logo_200_200/0/1694273769970/gocodeo_ai_logo?e=1756339200&v=beta&t=oRyvELdmCQLB2DCVXVS_RYOSgGrt7VLDFnnnxFgOrO0",
+        "description": "Writes, tests, and ships production-grade code at lightning speed with intelligent AI agents. AI Agent for White-box Software Testing",
+        "linkedinProfile": "https://www.linkedin.com/company/gocodeo-ai/"
+    },
+    {
+        "id": "125",
+        "name": "LEGOAI",
+        "founded": 2023,
+        "founders": [
+            "Prinkan Pal"
+        ],
+        "website": "https://legoai.com/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGhmr5g_MyTig/company-logo_200_200/company-logo_200_200/0/1681291346850/legoai_logo?e=1756339200&v=beta&t=Yed8naGmdd3gfpKX_Lk49luzWc9yZ02yWAD2IZNaOLQ",
+        "description": "Delivers actionable insights through advanced AI analytics.",
+        "linkedinProfile": "https://www.linkedin.com/company/legoai/"
+    },
+    {
+        "id": "126",
+        "name": "AuraML",
+        "founded": 2023,
+        "founders": [
+            "Ayush Sharma",
+            "Arjun Gupta"
+        ],
+        "website": "https://www.auraml.com/index.html",
+        "category": "Industry, Robotics, and IoT",
+        "tags": [
+            "Industry",
+            "Robotics",
+            "and IoT"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHbi39nGkXSMA/company-logo_200_200/company-logo_200_200/0/1687178038421/aura_ml_logo?e=1756339200&v=beta&t=AIF_v29X0sKI6BgQ2KSOEqDB4I_4MmpF6XvlFsZpb4s",
+        "description": "A generative simulation platform that creates realistic 3D environments to help robotics teams train and test AI systems efficiently.",
+        "linkedinProfile": "https://www.linkedin.com/company/aura-ml/"
+    },
+    {
+        "id": "127",
+        "name": "sigmamind AI",
+        "founded": 2023,
+        "founders": [
+            "Ashish Agrawal"
+        ],
+        "website": "https://sigmamind.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHWHeLm8oWGww/company-logo_200_200/company-logo_200_200/0/1719704872955/payoindia_logo?e=1756339200&v=beta&t=Txv5jz82Rger48jGW8B9vcx-jGgz0LxxxyxZ7inADLA",
+        "description": "No-code platform to build AI agents for call centre use cases",
+        "linkedinProfile": "https://www.linkedin.com/company/sigmamind-ai/"
+    },
+    {
+        "id": "128",
+        "name": "Sei",
+        "founded": 2023,
+        "founders": [
+            "Pranay Shetty",
+            "Ramkumar Venkataraman"
+        ],
+        "website": "https://www.seiright.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "New York",
+        "city": "New York",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF7jeZI2kIeyw/company-logo_200_200/company-logo_200_200/0/1696314387627?e=1756339200&v=beta&t=c_8I3uOMx38xJBy9nBA8TtSHsWonIqtkBs8TbXhWlmI",
+        "description": "AI-driven compliance and customer service automation platform for financial institutions.",
+        "linkedinProfile": "https://www.linkedin.com/company/sei-ai/"
+    },
+    {
+        "id": "129",
+        "name": "SimplAI",
+        "founded": 2023,
+        "founders": [
+            "Sandeep Dinodiya"
+        ],
+        "website": "https://simplai.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHeDXqqRmmFww/company-logo_200_200/company-logo_200_200/0/1738155564639/simplai_ai_logo?e=1756339200&v=beta&t=0ym26vo3iBNovN7ljUDvcOKlBGvGID39RDkdkTc_Kr4",
+        "description": "Facilitates automation, real-time decision-making, and intelligent insights for businesses.",
+        "linkedinProfile": "https://www.linkedin.com/company/simplai-ai/"
+    },
+    {
+        "id": "130",
+        "name": "Clueso",
+        "founded": 2023,
+        "founders": [
+            "Akash Anand",
+            "Prajwal Prakash",
+            "and Neel Balar"
+        ],
+        "website": "https://www.clueso.io/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQE9z5Ku000ScQ/company-logo_200_200/B56Zb2Tb1CGoAI-/0/1747889012683/clueso_logo?e=1756339200&v=beta&t=oHwSSLtaIXiaDqajuyJJ-38DLM-6JlZ2tSwCU4LvNT0",
+        "description": "Turns screen recordings into polished product videos and step-by-step guides with AI voiceovers, effects, and multilingual support.",
+        "linkedinProfile": "https://www.linkedin.com/company/clueso/about/"
+    },
+    {
+        "id": "131",
+        "name": "QodexAI",
+        "founded": 2023,
+        "founders": [
+            "Siddhant Mohan"
+        ],
+        "website": "https://qodex.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://framerusercontent.com/images/xwh7zHTyXtQSsVUmussx9CMp74.png?scale-down-to=512",
+        "description": "Auto-generates and maintains API tests and security checks from natural language, with CI/CD integration and real-time monitoring.",
+        "linkedinProfile": "https://www.linkedin.com/company/qodexai"
+    },
+    {
+        "id": "132",
+        "name": "Frammer AI",
+        "founded": 2023,
+        "founders": [
+            "Suparna Singh",
+            "Kawaljit Singh Bedi",
+            "Arijit Chatterjee"
+        ],
+        "website": "https://www.frammer.com/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": NaN,
+        "city": "Delhi",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEKasdzDCixHw/company-logo_200_200/company-logo_200_200/0/1695468605532/frammer_ai_logo?e=1756339200&v=beta&t=IfcCzJO6fmHkhXVT9-VWet_PMeQDHa9kkEsiUUc4zgs",
+        "description": "AI-powered platform that transforms long-form videos into short, monetizable clips for platforms like YouTube Shorts, Instagram Reels, and LinkedIn",
+        "linkedinProfile": "https://www.linkedin.com/company/frammer-ai/"
+    },
+    {
+        "id": "133",
+        "name": "Superjoin",
+        "founded": 2023,
+        "founders": [
+            "Abhinav Das",
+            "Vinayak Jhunjhunwala"
+        ],
+        "website": "https://www.superjoin.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG_0bZp1NuirA/company-logo_200_200/company-logo_200_200/0/1686315196546/nowstackit_logo?e=1756339200&v=beta&t=CYmUUI74ufoCLb2lLmPiQHwr_AN0iPK4-fVbJGTv1r4",
+        "description": "AI-powered platform designed to enhance productivity within Google Sheets by automating data workflows, integrating with various data sources, and enabling advanced data manipulation through natural language processing.",
+        "linkedinProfile": "https://www.linkedin.com/company/superjoin/"
+    },
+    {
+        "id": "134",
+        "name": "Onetab",
+        "founded": 2023,
+        "founders": [
+            "Saket Dandotia",
+            "Sonal Dandotia",
+            "Alok Patil"
+        ],
+        "website": "https://www.onetab.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "Singapore",
+        "state": NaN,
+        "city": "Singapore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEzq1_R39HvKg/company-logo_200_200/company-logo_200_200/0/1704291435098/onetabai_logo?e=1756339200&v=beta&t=6QdLUgRC2bw5J5TuUF52C89pC0zE2Oo3FuBoe-FM2w4",
+        "description": "AI-powered platform designed to streamline the software development lifecycle by integrating various tools into a unified interface.",
+        "linkedinProfile": "https://www.linkedin.com/company/onetabai/"
+    },
+    {
+        "id": "135",
+        "name": "Inspeq",
+        "founded": 2023,
+        "founders": [
+            "Apoorva Kumar",
+            "Ramanujam Macharla Vijayakumar"
+        ],
+        "website": "https://inspeq.ai/",
+        "category": "Compliance & Risk Management",
+        "tags": [
+            "Compliance & Risk Management"
+        ],
+        "country": "Ireland",
+        "state": NaN,
+        "city": "Dublin",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGOnBoavbbZjw/company-logo_200_200/company-logo_200_200/0/1710300035940/inspeq_ai_logo?e=1756339200&v=beta&t=6cdzh36cyIkZB37ASnSr9S9G-FEQ7tbilOMFt12NjoA",
+        "description": "AI infrastructure firm providing an enterprise-ready platform to operationalize Responsible AI principles in the development cycle.",
+        "linkedinProfile": "https://www.linkedin.com/company/inspeq-ai/"
+    },
+    {
+        "id": "136",
+        "name": "Wizr",
+        "founded": 2023,
+        "founders": [
+            "Sirish Kosaraju",
+            "Rajesh Padinjaremadam"
+        ],
+        "website": "https://wizr.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Pleasanton",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHkFR6rB-tP4g/company-logo_200_200/company-logo_200_200/0/1700033234255/wizr_ai_logo?e=1756339200&v=beta&t=0weNmGECKkoAqb3eaz_dfY5RBVg3DVZoIfo1gDZK24E",
+        "description": "Enterprise AI platform that enables the rapid building and deployment of autonomous AI agents, assistants, and workflows.",
+        "linkedinProfile": "https://www.linkedin.com/company/wizr-ai/"
+    },
+    {
+        "id": "137",
+        "name": "MarianaAI",
+        "founded": 2023,
+        "founders": [
+            "Kaustubh Sharma",
+            "Vishal Agrawal"
+        ],
+        "website": "https://marianaai.com/",
+        "category": "Healthcare & Medical Diagnostics",
+        "tags": [
+            "Healthcare & Medical Diagnostics"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Jose",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHwQ5Kye2yTpg/company-logo_200_200/company-logo_200_200/0/1701942046455/marianaai_logo?e=1756339200&v=beta&t=ymSvnVK2JJ2RUhCBPNSWtWLW1WWF6APnLyhnjjuaIcQ",
+        "description": "Healthcare AI platform that transcribes clinical conversations and generates real-time medical documentation, coding, and decision support",
+        "linkedinProfile": "https://www.linkedin.com/company/marianaai/"
+    },
+    {
+        "id": "138",
+        "name": "Lyzr",
+        "founded": 2023,
+        "founders": [
+            "Siva Surendira"
+        ],
+        "website": "https://www.lyzr.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "New Jersey",
+        "city": "Jersey City",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEe3SDOTBE1hQ/company-logo_200_200/company-logo_200_200/0/1735975302199/lyzr_platform_logo?e=1756339200&v=beta&t=HBsDyDj3CrLiUK0WYM0r5jco0v0MUXsAIx9A1ejZu-g",
+        "description": "Enterprise AI agent framework that allows organizations to build, deploy, and manage private, secure AI agents tailored to their workflows.",
+        "linkedinProfile": "https://www.linkedin.com/company/lyzr-platform/"
+    },
+    {
+        "id": "139",
+        "name": "SiftHub",
+        "founded": 2023,
+        "founders": [
+            "Manisha Raisinghani"
+        ],
+        "website": "https://www.sifthub.io/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHy1OW30iR8UA/company-logo_200_200/company-logo_200_200/0/1729678836552/sifthubhq_logo?e=1756339200&v=beta&t=P7Zt7jjrIj1MjPUk_SQFUnmfizKwgpOEDXTU6r5hNCA",
+        "description": "Empowers sales and presales teams to improve win rates and close deals faster by acting as a bridge between sellers and scattered company knowledge.",
+        "linkedinProfile": "https://www.linkedin.com/company/sifthubhq"
+    },
+    {
+        "id": "140",
+        "name": "Wokelo",
+        "founded": 2023,
+        "founders": [
+            "Siddhant Masson",
+            "Saswat Nanda"
+        ],
+        "website": "https://www.wokelo.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "US",
+        "state": "Washington",
+        "city": "Seattle",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFJQvIREFxpyw/company-logo_200_200/B56ZW_c6qSGUAQ-/0/1742673783834/wokelo_ai_logo?e=1756339200&v=beta&t=JYoLITmrgIwSFql5m1uI3rufJZtzc_7zXQs6iOcD130",
+        "description": "Gen-AI powered investment research platform for automating complex research workflows like due diligence, sector research, and portfolio monitoring.",
+        "linkedinProfile": "https://www.linkedin.com/company/wokelo-ai"
+    },
+    {
+        "id": "141",
+        "name": "Highperformr",
+        "founded": 2023,
+        "founders": [
+            "Srivatsan Venkatesan",
+            "Ramesh Ravishankar"
+        ],
+        "website": "https://www.highperformr.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHwpDf1MIRjdg/company-logo_200_200/company-logo_200_200/0/1705401377381/highperformr_ai_logo?e=1756339200&v=beta&t=42jdONWey2PZv7b7mF070DM6xhR9j1KsRixoLKYfiAo",
+        "description": "Social CRM platform that leverages AI to provide real-time intent signals, helping RevOps and marketing teams enhance sales effectiveness by identifying ready buyers and automating go-to-market workflows.",
+        "linkedinProfile": "https://in.linkedin.com/company/highperformr-ai"
+    },
+    {
+        "id": "142",
+        "name": "GreyLabs",
+        "founded": 2023,
+        "founders": [
+            "Aman Goel",
+            "Harshita Srivastava"
+        ],
+        "website": "https://www.greylabs.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEGYG0_RabVvA/company-logo_200_200/company-logo_200_200/0/1708435529466/greylabs_ai_logo?e=1756339200&v=beta&t=LPD31m5W5KisMT8B4a5e9oQIY9FTUqjXxaW30YD_ltw",
+        "description": "AI-powered speech and text analytics solutions tailored for the banking, financial services, and insurance (BFSI) sector.",
+        "linkedinProfile": "https://www.linkedin.com/company/greylabs-ai/"
+    },
+    {
+        "id": "143",
+        "name": "Gushwork",
+        "founded": 2023,
+        "founders": [
+            "Nayrhit Bhattacharya",
+            "Adithya Venkatesh"
+        ],
+        "website": "https://www.gushwork.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "New York",
+        "city": "Brooklyn",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGLG2BMP4Z79A/company-logo_200_200/B4EZZnRGI3H0AM-/0/1745489257564/gushwork_logo?e=1756339200&v=beta&t=N0ERv7K2uawDzeJ_4vDlSxJWdoHBlDyp9beCIHhsxHQ",
+        "description": "Platform that provides businesses with easy, trustworthy, and affordable access to AI-first on-demand teams to help manage business workflows and applications.",
+        "linkedinProfile": "https://www.linkedin.com/company/gushwork"
+    },
+    {
+        "id": "144",
+        "name": "Pintel",
+        "founded": 2023,
+        "founders": [
+            "Aman Garg",
+            "Nirmal Vatsyayan"
+        ],
+        "website": "https://pintel.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFLk8aQmsHASg/company-logo_200_200/company-logo_200_200/0/1718810406064/pintelai_logo?e=1756339200&v=beta&t=Vo_D_gN9SrZmRsYgHxHALXD8cGZ8Je_6cmCLJCsyyD4",
+        "description": "AI-powered tools designed to enhance sales development processes by automating research and providing customizable solutions to improve sales efficiency.",
+        "linkedinProfile": "https://www.linkedin.com/company/pintelai/"
+    },
+    {
+        "id": "145",
+        "name": "Alchemyst AI",
+        "founded": 2023,
+        "founders": [
+            "Uttaran Nayak",
+            "Anuran Roy",
+            "Prithwijit Dey"
+        ],
+        "website": "https://getalchemystai.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHFCQNUUUHOYQ/company-logo_200_200/B4DZbxXPusGwAI-/0/1747806125440/alchemystai_logo?e=1756339200&v=beta&t=_N3XfFV4YTKy0X3P2eL09TA2H1lQo5NMecTKlaO_kTA",
+        "description": "AI automation and enterprise productivity by developing digital employees that create intelligent functional components for mid-sized to large enterprises.",
+        "linkedinProfile": "https://www.linkedin.com/company/alchemystai"
+    },
+    {
+        "id": "146",
+        "name": "Portkey",
+        "founded": 2023,
+        "founders": [
+            "Rohit Agarwal",
+            "Ayush Garg"
+        ],
+        "website": "https://portkey.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQF6D3Bf64c7_Q/company-logo_200_200/company-logo_200_200/0/1706756517195/portkey_ai_logo?e=1756339200&v=beta&t=18EnrkKhs0YubOTdQTcCvYSHZEf063JwDlTVH7GNoUk",
+        "description": "Production stack for generative AI builders, offering tools like AI gateway, observability, guardrails, and prompt management modules to help teams go to production.",
+        "linkedinProfile": "https://www.linkedin.com/company/portkey-ai"
+    },
+    {
+        "id": "147",
+        "name": "Neysa",
+        "founded": 2023,
+        "founders": [
+            "Sharad Sanghi",
+            "Anindya Das"
+        ],
+        "website": "https://neysa.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQH0aBqIgYgl_Q/company-logo_200_200/company-logo_200_200/0/1727977489077/neysanetworks_logo?e=1756339200&v=beta&t=Hh1yMFt6Lqe7cDb8AoKdarAyp3GDfqtC6bBExzTqDwc",
+        "description": "Generative AI platforms and services to facilitate businesses across all industries, ensuring security across cloud and edge environments for AI project deployment and management.",
+        "linkedinProfile": "https://www.linkedin.com/company/neysaai/"
+    },
+    {
+        "id": "148",
+        "name": "Composio",
+        "founded": 2023,
+        "founders": [
+            "Soham Ganatra",
+            "Karan Vaidya"
+        ],
+        "website": "https://composio.dev/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE43VCRX5EFLQ/company-logo_200_200/B4DZewxIboHMAI-/0/1751017359552/composiohq_logo?e=1756339200&v=beta&t=wyamfDhqj2hCZHtWARHNN9WtUp7Ot-QtHzgJOra4uiw",
+        "description": "Empowers AI agents for seamless interactions with software applications and system tools, enabling users to integrate external tools swiftly and go live within hours.",
+        "linkedinProfile": "https://www.linkedin.com/company/composiohq"
+    },
+    {
+        "id": "149",
+        "name": "Maxim AI",
+        "founded": 2023,
+        "founders": [
+            "Vaibhavi Gangwar",
+            "Akshay Deo"
+        ],
+        "website": "https://www.getmaxim.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEUn8MCYsBl9Q/company-logo_200_200/company-logo_200_200/0/1718459472202/maxim_ai_logo?e=1756339200&v=beta&t=Dm-2DvF_b7gnESO2DdkSRqcZOrnKYk-PmZu7UA26pFI",
+        "description": "Offers an end-to-end evaluation and observability platform to help teams simulate, evaluate, and observe AI agents, aiming to ship them reliably and faster.",
+        "linkedinProfile": "https://www.linkedin.com/company/maxim-ai"
+    },
+    {
+        "id": "150",
+        "name": "Llumo",
+        "founded": 2023,
+        "founders": [
+            "Shivam Gupta",
+            "Akshat Anand"
+        ],
+        "website": "https://www.llumo.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Uttar Pradesh",
+        "city": "Noida",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHjQnyz9RKfhg/company-logo_200_200/company-logo_200_200/0/1736749246967/llumoai_logo?e=1756339200&v=beta&t=HRoBR6pEdnxuuqhsp2GYT0_01RGtdXVkUL8sXhZDU8w",
+        "description": "AI optimization platform to enhance the performance and reduce the costs associated with deploying Large Language Models (LLMs).",
+        "linkedinProfile": "https://www.linkedin.com/company/llumoai"
+    },
+    {
+        "id": "151",
+        "name": "Smallest",
+        "founded": 2023,
+        "founders": [
+            "Sudarshan Kamath",
+            "Akshat Mandloi"
+        ],
+        "website": "https://smallest.ai/",
+        "category": "Language, Communication & Voice",
+        "tags": [
+            "Language",
+            "Communication & Voice"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGLqcWWuppu_g/company-logo_200_200/company-logo_200_200/0/1736418398669/smallest_logo?e=1756339200&v=beta&t=p8FnKvFeJEqV-ckPlCtGC8_Lt7VOmJJgRNsDpF1Z_00",
+        "description": "Builds ultra-low-latency voice AI agents for contact centers, enabling real-time, multilingual speech synthesis and voice automation",
+        "linkedinProfile": "https://www.linkedin.com/company/smallest"
+    },
+    {
+        "id": "152",
+        "name": "Origamis AI",
+        "founded": 2024,
+        "founders": [
+            "Manas Agrawal",
+            "Ankit Agrawal"
+        ],
+        "website": "https://origamis.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGka1hxMIlJqw/company-logo_200_200/company-logo_200_200/0/1721625904174?e=1756339200&v=beta&t=EEQXQxMcqPL-_JBfy4GeFPQm_-Yss8fmoRoPASaWMBU",
+        "description": "Platform for building, deploying, and managing scalable AI agents with built-in tools for search, document chat, and data analysis",
+        "linkedinProfile": "https://www.linkedin.com/company/origamis-ai/"
+    },
+    {
+        "id": "153",
+        "name": "Genfuse AI",
+        "founded": 2024,
+        "founders": [
+            "Sayoni Datta Roy",
+            "Kshitiz Kumar"
+        ],
+        "website": "http://genfuseai.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHPSGPy3gNkJw/company-logo_200_200/company-logo_200_200/0/1732624591295?e=1756339200&v=beta&t=Md4Mnd3CoaShCGXrn54KwgCgmobQnFemTScZpXMSPiM",
+        "description": "AI Agent Building tool",
+        "linkedinProfile": "https://www.linkedin.com/company/genfuse-ai/"
+    },
+    {
+        "id": "154",
+        "name": "Dobr AI",
+        "founded": 2024,
+        "founders": [
+            "Abhishek Verma",
+            "Ankita Verma"
+        ],
+        "website": "https://dobr.ai/",
+        "category": "Recruitment, HR, Training & EdTech",
+        "tags": [
+            "Recruitment",
+            "HR",
+            "Training & EdTech"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF2MEqyxRElFw/company-logo_200_200/company-logo_200_200/0/1725427474519/dobr_ai_logo?e=1756339200&v=beta&t=x-UwHa0pN2ERspdxmCRgRCCKOqDHE9BDgZlxjdEZL2Y",
+        "description": "Offers fully autonomous AI-powered technical interviews, conducting dynamic, project-based coding and system design assessments that adapt in real-time",
+        "linkedinProfile": "https://www.linkedin.com/company/dobr-ai/"
+    },
+    {
+        "id": "155",
+        "name": "Tailored AI",
+        "founded": 2024,
+        "founders": [
+            "Devavrat Mahajan",
+            "Ishan Tarunesh"
+        ],
+        "website": "https://www.tailoredai.co/",
+        "category": "Legal, Consulting, Research & Human-Centered AI",
+        "tags": [
+            "Legal",
+            "Consulting",
+            "Research & Human-Centered AI"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHRRHYRf3WZWg/company-logo_200_200/company-logo_200_200/0/1709055160728/thetailoredai_logo?e=1756339200&v=beta&t=uuJOwQKinzf6U_bLomIFQzLO13Qpvvp98RRcmsIeND0",
+        "description": "Builds custom AI agents to automate tasks like document analysis, chatbots, and backend workflows for operational efficiency",
+        "linkedinProfile": "https://www.linkedin.com/company/thetailoredai/"
+    },
+    {
+        "id": "156",
+        "name": "Soket AI Labs",
+        "founded": 2024,
+        "founders": [
+            "Abhishek Upperwal"
+        ],
+        "website": "https://soket.ai/",
+        "category": "Legal, Consulting, Research & Human-Centered AI",
+        "tags": [
+            "Legal",
+            "Consulting",
+            "Research & Human-Centered AI"
+        ],
+        "country": "India",
+        "state": "Haryana",
+        "city": "Gurugram",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQG7lJnzvXU8UQ/company-logo_200_200/B56ZciuA95GsAM-/0/1748634177889/soketlabs_logo?e=1756339200&v=beta&t=9ekwloNIvNjrKNxaIsLhh6K2S5Fdm4p82CF1b64HHak",
+        "description": "Builds multilingual Indian foundation models and real-time speech APIs for Indic languages under its Project EKA initiative",
+        "linkedinProfile": "https://www.linkedin.com/company/soketlabs/"
+    },
+    {
+        "id": "157",
+        "name": "100x",
+        "founded": 2024,
+        "founders": [
+            "Shardul Lavekar",
+            "Parth Mudgal"
+        ],
+        "website": "https://100x.bot/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGg3TubrY73Qw/company-logo_200_200/B56ZUYCRzeHoAI-/0/1739865005712/100x_bot_logo?e=1756339200&v=beta&t=pYwt4adL8-f4e6pL1k7LoxZjMKwL7WNxKH0YZc6Nrmk",
+        "description": "No-code platform that lets users build and share AI agents to automate tasks like recruiting, marketing, and e-commerce",
+        "linkedinProfile": "https://www.linkedin.com/company/100x-bot/"
+    },
+    {
+        "id": "158",
+        "name": "Cosdata",
+        "founded": 2024,
+        "founders": [
+            "Nitin Mani"
+        ],
+        "website": "https://www.cosdata.io/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "US",
+        "state": "New York",
+        "city": "New York",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF9LfG20Ikoqw/company-logo_200_200/company-logo_200_200/0/1728006365452?e=1756339200&v=beta&t=yM-PcOMSwKUMVAmXNLb3UJQUJMlK3sBxiwlXXbPFxAw",
+        "description": "AI-driven data management platform integrating knowledge graphs and vector search for enhanced context retrieval in AI applications.",
+        "linkedinProfile": "https://www.linkedin.com/company/cosdata/"
+    },
+    {
+        "id": "159",
+        "name": "VapusData",
+        "founded": 2024,
+        "founders": [
+            "Vikrant singh"
+        ],
+        "website": "https://vapusdata.com/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHo-RFANAqwOA/company-logo_200_200/company-logo_200_200/0/1718774680175?e=1756339200&v=beta&t=2u05MYVPPxIesaGr2jqfYmgmEyAQniRiu_rSGlX9WP0",
+        "description": "Decentralized data-mesh platform with built-in governance, enabling secure data product sharing and AI-powered analytics workflows",
+        "linkedinProfile": "https://www.linkedin.com/company/vapusdata/"
+    },
+    {
+        "id": "160",
+        "name": "Zoca",
+        "founded": 2024,
+        "founders": [
+            "Ashish Verma",
+            "Robin Chauhan"
+        ],
+        "website": "https://zoca.com/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "Arizona",
+        "city": "Phoenix",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHOY0oG0iGkIw/company-logo_200_200/B56ZbuywJiH4AI-/0/1747763005361/zocaai_logo?e=1756339200&v=beta&t=I00BvAdahBInF1s2Si4A0L_r8wHUkfwoVgeFf-qud2g",
+        "description": "AI-powered marketing platform designed to help local beauty and wellness businesses grow by improving their online visibility, converting inquiries into bookings, and retaining clients through automated re-engagement strategies.",
+        "linkedinProfile": "https://www.linkedin.com/company/zocaai"
+    },
+    {
+        "id": "161",
+        "name": "Nurix",
+        "founded": 2024,
+        "founders": [
+            "Mukesh Bansal"
+        ],
+        "website": "https://www.nurix.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Mountain View",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQG-UGwn8cETWg/company-logo_200_200/company-logo_200_200/0/1719308256976/nurixai_logo?e=1756339200&v=beta&t=InHpbXjtsrDJGBrl3HlRbbv17TAy-4fKpw3oooUPIMQ",
+        "description": "Develops custom AI agents that analyze extensive data to generate insights, shape business strategies, and enhance customer experiences through personalized interactions.",
+        "linkedinProfile": "https://www.linkedin.com/company/nurixai/"
+    },
+    {
+        "id": "162",
+        "name": "Thesys",
+        "founded": 2024,
+        "founders": [
+            "Parikshit Deshmukh",
+            "Rabi Shanker Guha"
+        ],
+        "website": "https://www.thesys.dev/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGL-x9cIwhknA/company-logo_200_200/company-logo_200_200/0/1730896730095/thesysdev_logo?e=1756339200&v=beta&t=AHJX07JccyE2iaa3ZRezV1B5J9JyUnkeEjASEcdTN8g",
+        "description": "APIs for building Generative UI applications, allowing interfaces to generate themselves based on user input, context, or intent, instead of being hardcoded.",
+        "linkedinProfile": "https://www.linkedin.com/company/thesysdev"
+    },
+    {
+        "id": "163",
+        "name": "PipeShift",
+        "founded": 2024,
+        "founders": [
+            "Arko Chattopadhyay",
+            "Enrique Ferrao",
+            "Pranav Reddy"
+        ],
+        "website": "https://pipeshift.com/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGYtefXcV70QQ/company-logo_200_200/B56ZbKVAKfHUAI-/0/1747151226332/pipeshift_logo?e=1756339200&v=beta&t=yfoYK-4gSEdhrGzTaD2xVfyTkxCwZ9ad_AxNP_lvmEk",
+        "description": "A modular orchestration platform for building with open-source AI components, enabling fast, scalable, and production-ready deployment across any cloud or on-premises environment.",
+        "linkedinProfile": "https://www.linkedin.com/company/pipeshift"
+    },
+    {
+        "id": "164",
+        "name": "Tejas AI",
+        "founded": 2025,
+        "founders": [
+            "Gaurav Agarwal Luhariwala"
+        ],
+        "website": "https://www.trytejas.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "India",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGcYuhhMkvI8Q/company-logo_200_200/B56ZVDhnB3HEAI-/0/1740594639483/shopnflix_logo?e=1756339200&v=beta&t=gobtnCD9TOQnQ6Qt9izpn3rleZw05wn3CYLg8HJc1ug",
+        "description": "AI-powered risk and credit decisioning platform for banks, automating policy analysis, optimization, and deployment in minutes instead of months for more accurate and scalable lending workflows",
+        "linkedinProfile": "https://www.linkedin.com/company/tejasai/"
+    },
+    {
+        "id": "165",
+        "name": "Vinkura AI",
+        "founded": 2025,
+        "founders": [
+            "Akshat Shukla"
+        ],
+        "website": "https://www.vinkura.in/",
+        "category": "Legal, Consulting, Research & Human-Centered AI",
+        "tags": [
+            "Legal",
+            "Consulting",
+            "Research & Human-Centered AI"
+        ],
+        "country": "India",
+        "state": "Uttar Pradesh",
+        "city": "Bareilly",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEES2t6Pis3wQ/img-crop_100/B56ZZJ23FZGQAQ-/0/1744995841625?e=1756339200&v=beta&t=eJhPOyk3Jjyo2hXOySCInIeOd0ZLZqeXtkTdENISQcA",
+        "description": "Focuses on ethical AI and human-centered design, developing tools like Maitryei Kuno for improved human-AI interaction",
+        "linkedinProfile": "https://www.linkedin.com/company/vinkura/"
+    },
+    {
+        "id": "166",
+        "name": "Kim.cc",
+        "founded": 2023,
+        "founders": [
+            "Sachin Jaiswal",
+            "Phani Yedavilli",
+            "Kaushik Barodiya"
+        ],
+        "website": "https://kim.cc/",
+        "category": "Customer Service & Engagement",
+        "tags": [
+            "Customer Service & Engagement"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGDRyPdUwILAA/company-logo_200_200/company-logo_200_200/0/1706009808262/kim_cc_logo?e=1756339200&v=beta&t=Sznw7fQO-3iqn26ycHJRFhKUndW_5M1kOrNtSsyoVmc",
+        "description": "Agentic BPO for customer support",
+        "linkedinProfile": "https://www.linkedin.com/company/kim-cc/?originalSubdomain=in"
+    },
+    {
+        "id": "167",
+        "name": "Reo.dev",
+        "founded": 2023,
+        "founders": [
+            "Achintya Gupta",
+            "Piyush Agarwal"
+        ],
+        "website": "https://www.reo.dev/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEXE7GrS7lFqA/company-logo_200_200/company-logo_200_200/0/1709021346724/reo_dev_logo?e=1756339200&v=beta&t=Ei7KXUnjgii0oX27FJ0ec7IIZi0H15vlDUP8KiKr3QU",
+        "description": "Revenue Intelligence for Developer Focused Companies",
+        "linkedinProfile": "https://www.linkedin.com/company/reo-dev/"
+    },
+    {
+        "id": "168",
+        "name": "Giga ML",
+        "founded": 2023,
+        "founders": [
+            "Varun Muuvadi",
+            "Esha Manideep"
+        ],
+        "website": "https://new.gigaml.com/",
+        "category": "Customer Service & Engagement",
+        "tags": [
+            "Customer Service & Engagement"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF2RgUPolsmWA/company-logo_200_200/company-logo_200_200/0/1724716700310/gigaml_logo?e=1756339200&v=beta&t=j4N5pkWJhl087ykNUQ92y0TzeUWqaCk8eU3NxosagbQ",
+        "description": "AI Customer Support Agent for B2C Companies",
+        "linkedinProfile": "https://www.linkedin.com/company/gigaml/"
+    },
+    {
+        "id": "169",
+        "name": "Ema",
+        "founded": 2023,
+        "founders": [
+            "Surojit Chatterjee"
+        ],
+        "website": "https://www.ema.co/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Mountain View",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGYKx0-h94Q7w/company-logo_200_200/company-logo_200_200/0/1735853602465/ema_unlimited_logo?e=1756339200&v=beta&t=9KIVUs9ZG3U9HvX7TLxvy91EVUXi7pzce7MNahdoRFE",
+        "description": "Agentic AI powered \"employees\" that enterprises can trust",
+        "linkedinProfile": "https://www.linkedin.com/company/ema-unlimited/"
+    },
+    {
+        "id": "170",
+        "name": "RapidClaims",
+        "founded": 2023,
+        "founders": [
+            "Dushyant Mishra",
+            "Abhinay Vyas"
+        ],
+        "website": "https://www.rapidclaims.ai/",
+        "category": "Healthcare & Medical Diagnostics",
+        "tags": [
+            "Healthcare & Medical Diagnostics"
+        ],
+        "country": "US",
+        "state": "New York",
+        "city": "New York",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQErL7uIS4U3oA/company-logo_200_200/company-logo_200_200/0/1708962933514/rapidclaims_ai_logo?e=1756339200&v=beta&t=dYcUBsK3fyvZNYaT_3_kncHU7RGIDGTFsDbnOB09Azk",
+        "description": "Automates medical coding and claims processing to speed up reimbursements and reduce denials in healthcare.",
+        "linkedinProfile": "https://www.linkedin.com/company/rapidclaims-ai/about/"
+    },
+    {
+        "id": "171",
+        "name": "Krutim AI",
+        "founded": 2023,
+        "founders": [
+            "Bhavis Agarwal"
+        ],
+        "website": "https://www.olakrutrim.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFCkfV9hfLwwQ/company-logo_200_200/company-logo_200_200/0/1724848784149/krutrim_logo?e=1756339200&v=beta&t=duiQBFtLF5sGkPmNsKMbAdUpyjoTFHjyFyMXRibjsDQ",
+        "description": "AI platform offering multilingual models, AI cloud, and custom chips for building generative AI applications.",
+        "linkedinProfile": "https://www.linkedin.com/company/krutrim/"
+    },
+    {
+        "id": "172",
+        "name": "Aftershoot",
+        "founded": 2020,
+        "founders": [
+            "Harshit Dwivedi"
+        ],
+        "website": "https://aftershoot.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "Delaware",
+        "city": "Lewes",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE1o4sSk-GIvQ/company-logo_200_200/company-logo_200_200/0/1680543474486/aftershootco_logo?e=1756339200&v=beta&t=UzBXI6q_2923UBjVHufgtnT5q0PSiXt6JmUASNMGekM",
+        "description": "AI tool that automates photo culling, editing, and retouching for photographers with speed and consistent style.",
+        "linkedinProfile": "https://www.linkedin.com/company/aftershootco/about/"
+    },
+    {
+        "id": "173",
+        "name": "Bridgetown Research",
+        "founded": 2023,
+        "founders": [
+            "Harsh Sahai"
+        ],
+        "website": "https://www.bridgetownresearch.com/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "Washington",
+        "city": "Seattle",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGxOARtIrjp4Q/company-logo_200_200/company-logo_200_200/0/1704897403041/bridgetownresearch_logo?e=1756339200&v=beta&t=dHYK0i7Ani-HDbHReZA7AxTaFE9gkiKNgEXwgQ6WOmA",
+        "description": "Uses AI voice agents and expert networks to deliver fast, insight-driven research for private equity and consulting firms.",
+        "linkedinProfile": "https://www.linkedin.com/company/bridgetownresearch/?originalSubdomain=in"
+    },
+    {
+        "id": "174",
+        "name": "Simplismart",
+        "founded": 2022,
+        "founders": [
+            "Amritanshu Jain",
+            "Devansh Ghatak"
+        ],
+        "website": "https://www.simplismart.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF4wSfl3VmwRQ/company-logo_200_200/company-logo_200_200/0/1729105524200/simplismart_logo?e=1756339200&v=beta&t=_Hdn95ZCWsfqnFOcLOi-8b_uO1GHvOoN6KbqO6Prjvk",
+        "description": "MLOps platform for deploying and scaling ML and GenAI models with ultra-low latency and cost efficiency.",
+        "linkedinProfile": "https://www.linkedin.com/company/simplismart/about/"
+    },
+    {
+        "id": "175",
+        "name": "Emergent",
+        "founded": 2024,
+        "founders": [
+            "Madhav Jha",
+            "Mukund Jha"
+        ],
+        "website": "https://app.emergent.sh/login",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGDxavK__rQ_w/company-logo_200_200/B4DZZta760HIAM-/0/1745592500385/emergentlabs_logo?e=1756339200&v=beta&t=VS-rkjPT2FwpkAYgpeMs547PrWeRczeIWq-O8Xv1_ao",
+        "description": "AI-powered agentic \u201cvibe coding\u201d platform that turns plain English prompts into full-stack, production-ready applications delivered in minutes via coordinated AI agents.",
+        "linkedinProfile": "https://www.linkedin.com/company/emergentlabs/"
+    },
+    {
+        "id": "176",
+        "name": "Convin",
+        "founded": 2020,
+        "founders": [
+            "Ashish Santhalia",
+            "Bharat Patidar",
+            "Atul Shree",
+            "Durgesh Choudhary"
+        ],
+        "website": "https://convin.ai/home-b",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHvVuVhXmzw0g/company-logo_200_200/company-logo_200_200/0/1690197837485/convin_logo?e=1756339200&v=beta&t=qZLMU0s0QAOcxzuwdXHhxBo5IiwnuqDjNev7Z1l_rFA",
+        "description": "AI platform that analyzes customer conversations to automate QA, guide agents, and improve contact center performance.",
+        "linkedinProfile": "https://www.linkedin.com/company/convin/"
+    },
+    {
+        "id": "177",
+        "name": "RapidCanvas",
+        "founded": 2021,
+        "founders": [
+            "Rahul Pangam"
+        ],
+        "website": "https://www.rapidcanvas.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "Texas",
+        "city": "Austin",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEY06XGkKWf8A/company-logo_200_200/B56ZbnbgYeH0AY-/0/1747639470126/rapidcanvas_logo?e=1756339200&v=beta&t=xygjbyUdWTwctzEFBnuWvoHQoEM4kGQmSZgkwNhojd0",
+        "description": "A no-code AI platform that lets business users build and deploy enterprise AI solutions without technical expertise",
+        "linkedinProfile": "https://www.linkedin.com/company/rapidcanvas/"
+    },
+    {
+        "id": "178",
+        "name": "Cognida",
+        "founded": 2022,
+        "founders": [
+            "Feroze Mohammed",
+            "Pavan Tadpalli",
+            "Abid Mohammed"
+        ],
+        "website": "https://www.cognida.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "Illinois",
+        "city": "Lincolnshire",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGIh586ZQJahQ/company-logo_200_200/company-logo_200_200/0/1704277496816/cognida_ai_logo?e=1756339200&v=beta&t=JNc6UayYFIgoEAXqxNVOxqp6yFvuV2GCUjRbaV1zCOo",
+        "description": "Helps enterprises rapidly build and deploy AI solutions using its accelerator platform Zun\u014d and expert services.",
+        "linkedinProfile": "https://www.linkedin.com/company/cognida-ai/"
+    },
+    {
+        "id": "179",
+        "name": "Maximor",
+        "founded": 2023,
+        "founders": [
+            "Ramnandan Krishnamurthy",
+            "Ajay Krishna"
+        ],
+        "website": "https://www.maximor.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "US",
+        "state": "New York",
+        "city": "New York",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGf-jRD0ym7HA/company-logo_200_200/B4EZY9OckUHUAI-/0/1744783920157/maximor_ai_logo?e=1756339200&v=beta&t=M03LcoNPgnxlyz0rhn2Cmvq1A-sDfTclOS7EpCl4crU",
+        "description": "AI agents for Finance: Automates Revenue, Cash Month-end Close & Reporting",
+        "linkedinProfile": "https://www.linkedin.com/company/maximor-ai/"
+    },
+    {
+        "id": "180",
+        "name": "Auquan",
+        "founded": 2018,
+        "founders": [
+            "Shubham Jain",
+            "Chandini Jain"
+        ],
+        "website": "https://www.auquan.com/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "UK",
+        "state": "England",
+        "city": "London",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEnJZQHA7KHcw/company-logo_200_200/B4EZbPPKAZGcAI-/0/1747233579810/auquan_logo?e=1756339200&v=beta&t=si2cyUvSR_09tFvML-snYa1nWHX698_pIdtXe4IpndQ",
+        "description": "AI agents for deep knowledge work in financial services.",
+        "linkedinProfile": "https://www.linkedin.com/company/auquan/"
+    },
+    {
+        "id": "181",
+        "name": "Agrani Labs",
+        "founded": 2024,
+        "founders": [
+            "Dheemanth Nagaraj",
+            "Ashok Jagannathan"
+        ],
+        "website": "https://www.agranilabs.com/",
+        "category": "Industry, Robotics, and IoT",
+        "tags": [
+            "Industry",
+            "Robotics",
+            "and IoT"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Fremont",
+        "logoUrl": "https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_1/db53fece3aee4669ad65d4ca92d2f354",
+        "description": "Stealth AI chip startup building high-performance, energy-efficient processors for AI workloads",
+        "linkedinProfile": "https://www.linkedin.com/company/agrani-labs/"
+    },
+    {
+        "id": "182",
+        "name": "Writesonic",
+        "founded": 2021,
+        "founders": [
+            "Samanyu Garg"
+        ],
+        "website": "https://writesonic.com/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGhlUgn8QU4Hg/company-logo_200_200/company-logo_200_200/0/1650618028463/writesonic_logo?e=1756339200&v=beta&t=juJE3eSgwfFVGp29tO3LYvLsYeLL7U6qRmj4A4OJ1oU",
+        "description": "AI platform that generates marketing content like blogs, ads, and landing pages with GPT and SEO optimization.",
+        "linkedinProfile": "https://www.linkedin.com/company/writesonic/"
+    },
+    {
+        "id": "183",
+        "name": "Metaforms",
+        "founded": 2023,
+        "founders": [
+            "Akshat Tyagi",
+            "Arjun Santhoshkumar"
+        ],
+        "website": "https://www.metaforms.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQG5ECHqUt_0hg/company-logo_200_200/B56ZhLUgS4G4AM-/0/1753610323712/metaformsai_logo?e=1756339200&v=beta&t=8uSFwQoc4QyKq8uUCkTMsdDtBVSLAKNXS_Zn5CNa_2A",
+        "description": "AI platform that automates market research operations like surveys, data collection, and reporting for faster insights.",
+        "linkedinProfile": "https://www.linkedin.com/company/metaformsai/"
+    },
+    {
+        "id": "184",
+        "name": "Weaver",
+        "founded": 2024,
+        "founders": [
+            "Yash Jain"
+        ],
+        "website": "https://weaverai.in/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "Singapore",
+        "state": NaN,
+        "city": "Singapore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQF5MrTnb5IF4Q/company-logo_200_200/company-logo_200_200/0/1728581929484?e=1756339200&v=beta&t=0wVkNHv1wQsVoCpoJnI86Zk3-nLICkvjDEyYVjV5WkE",
+        "description": "AI platform for generating fashion and textile designs and visulizations",
+        "linkedinProfile": "https://www.linkedin.com/company/weaverai/"
+    },
+    {
+        "id": "185",
+        "name": "Further AI",
+        "founded": 2023,
+        "founders": [
+            "Aman Gaur",
+            "Sashank Gondala"
+        ],
+        "website": "https://www.furtherai.com/",
+        "category": "Industry, Robotics, and IoT",
+        "tags": [
+            "Industry",
+            "Robotics",
+            "and IoT"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGHyMKQJx7uNA/company-logo_200_200/B4DZZuJoTOGwAI-/0/1745604740944/furtherai_logo?e=1756339200&v=beta&t=TrYO6uapkcT2QSRv0s_6bx3KfuP1Dk0AZjFJ4xC9E5Y",
+        "description": "AI platform for commercial insurance that automates underwriting, claims, and compliance workflows for faster, more accurate processing.",
+        "linkedinProfile": "https://www.linkedin.com/company/furtherai/"
+    },
+    {
+        "id": "186",
+        "name": "Mem0",
+        "founded": 2023,
+        "founders": [
+            "Deshraj Yadav",
+            "Taranjeet Singh"
+        ],
+        "website": "https://mem0.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEKCL-NcwJ59g/company-logo_200_200/company-logo_200_200/0/1720819731793/mem0_logo?e=1756339200&v=beta&t=xRf8Nt1tWiH0aE4cZX0G2ybRVSUE3ACwRLiMg8ElWxE",
+        "description": "A memory layer for AI that helps LLMs retain user context for more personalized and efficient interactions",
+        "linkedinProfile": "https://www.linkedin.com/company/mem0/"
+    },
+    {
+        "id": "187",
+        "name": "Arintra",
+        "founded": 2020,
+        "founders": [
+            "Nitesh Shroff"
+        ],
+        "website": "https://www.arintra.com/",
+        "category": "Healthcare & Medical Diagnostics",
+        "tags": [
+            "Healthcare & Medical Diagnostics"
+        ],
+        "country": "US",
+        "state": "Texas",
+        "city": "Austin",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFvhgdlnb3KVg/company-logo_200_200/B4DZWlGpNNHAAQ-/0/1742231737636/arintra_logo?e=1756339200&v=beta&t=yTnbDPeJ4oFTin0ahyyl6WiwOwrJWkzrLcg0_s7Ad_M",
+        "description": "AI-powered healthcare platform that automates medical coding by converting clinician notes into billing claims.",
+        "linkedinProfile": "https://www.linkedin.com/company/arintra/"
+    },
+    {
+        "id": "188",
+        "name": "SuperNova",
+        "founded": 2018,
+        "founders": [
+            "Maharishi RB",
+            "Anirudh Coontoor",
+            "Nawin Krishna"
+        ],
+        "website": "https://www.getsupernova.ai/",
+        "category": "Language, Communication & Voice",
+        "tags": [
+            "Language",
+            "Communication & Voice"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEifhnvmATXgQ/company-logo_200_200/company-logo_200_200/0/1630521951095/supernova_io_logo?e=1756339200&v=beta&t=ILX98ZuGcQKbw00skM0aPTiWFg9yn8arJ0P8eGrpqcY",
+        "description": "AI-powered app designed to help people learn spoken English easily",
+        "linkedinProfile": "https://www.linkedin.com/company/supernovaai/"
+    },
+    {
+        "id": "189",
+        "name": "Deccan AI",
+        "founded": 2024,
+        "founders": [
+            "Rukesh Reddy"
+        ],
+        "website": "https://www.deccan.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEzBjCGyU-wsg/company-logo_200_200/company-logo_200_200/0/1730125488452/ai_deccan_logo?e=1756339200&v=beta&t=EZeHCpWi-j8peJajotjVnmJhMdSeUrghvTElLry0xHw",
+        "description": "Provides high-quality, human-curated datasets to help enterprises train and validate LLMs and GenAI models.",
+        "linkedinProfile": "https://www.linkedin.com/company/ai-deccan/"
+    },
+    {
+        "id": "190",
+        "name": "Ontic",
+        "founded": 2017,
+        "founders": [
+            "Gagan Jain",
+            "Lukas Quanstrom"
+        ],
+        "website": "https://ontic.co/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "Texas",
+        "city": "Austin",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHMmKjB18VZCw/company-logo_200_200/company-logo_200_200/0/1630571509948/ontic_technologies_logo?e=1756339200&v=beta&t=C97fqFuBaHAxe4nI5BMUxQ8EB4XK2DGMunPLgtBKEZQ",
+        "description": "Provides legacy aircraft parts and a threat intelligence platform to help organizations manage risks and security proactively",
+        "linkedinProfile": "https://www.linkedin.com/company/ontic-technologies/"
+    },
+    {
+        "id": "191",
+        "name": "Induced AI",
+        "founded": 2023,
+        "founders": [
+            "Aryan Sharma",
+            "Ayush Pathak"
+        ],
+        "website": "https://www.induced.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEGDPbaagmL-A/company-logo_200_200/company-logo_200_200/0/1688365123357/induced_ai_logo?e=1756339200&v=beta&t=HAQ0WhSCYMNlT6xGq6wwkZwMgmeCElt-Vz8wqK6xtfg",
+        "description": "AI browser agents to automate web-based workflows from natural-language prompts with human-in-the-loop oversight.",
+        "linkedinProfile": "https://www.linkedin.com/company/induced-ai/"
+    },
+    {
+        "id": "192",
+        "name": "Rhythms",
+        "founded": 2023,
+        "founders": [
+            "Vetri Vellore"
+        ],
+        "website": "https://www.rhythms.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "Washington",
+        "city": "Bellevue",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHyyOfQRxtPCQ/company-logo_200_200/company-logo_200_200/0/1701896910739/rhythms_logo?e=1756339200&v=beta&t=rLyGZYZ6UKKmP19hgBzc9XUCYl-VfacuNJq1Sv_4Fo0",
+        "description": "AI powered Operating System for high-performing teams",
+        "linkedinProfile": "https://www.linkedin.com/company/rhythms/"
+    },
+    {
+        "id": "193",
+        "name": "Repello",
+        "founded": 2023,
+        "founders": [
+            "Aryaman Behera",
+            "Naman Mishra"
+        ],
+        "website": "https://repello.ai/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH8LTZW77_qxQ/company-logo_200_200/company-logo_200_200/0/1710098613335?e=1756339200&v=beta&t=FknMbCNE1A_CsPr-TNowUoxAYSZvSsO9kKNA5vSL8Kk",
+        "description": "Provides a GenAI security platform that automates red-teaming and defends against prompt injection and other AI threats in real time.",
+        "linkedinProfile": "https://www.linkedin.com/company/repello-ai/"
+    },
+    {
+        "id": "194",
+        "name": "Osfin",
+        "founded": 2020,
+        "founders": [
+            "Jainendra Batra",
+            "Shitikanth Kashyap"
+        ],
+        "website": "https://www.osfin.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "India",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGaQvemTf1cMA/company-logo_200_200/company-logo_200_200/0/1674123826683?e=1756339200&v=beta&t=qq4a7Z4_SqAKKGnPu3wLLCI78DS3_4QtjmWyeCChqTQ",
+        "description": "Automates finance operations like reconciliation, invoicing, and payouts, giving teams real-time cash flow visibility and efficiency.",
+        "linkedinProfile": "https://www.linkedin.com/company/osfin-ai/"
+    },
+    {
+        "id": "195",
+        "name": "Orbit Shift",
+        "founded": 2022,
+        "founders": [
+            "Swapnil Saykar",
+            "Saurabh Mishra"
+        ],
+        "website": "https://www.orbitshift.ai/",
+        "category": "Marketing, Sales & Customer Engagement",
+        "tags": [
+            "Marketing",
+            "Sales & Customer Engagement"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFMEjg9LCa53g/company-logo_200_200/company-logo_200_200/0/1733337745272/orbitshift_ai_logo?e=1756339200&v=beta&t=mxvkAAWpp9eFd5mKFHhe-GXGwDTOZWkPt_KAQ4RxZpw",
+        "description": "Agentic AI Sales Operating System for Enterprises",
+        "linkedinProfile": "https://www.linkedin.com/company/orbitshift-ai/"
+    },
+    {
+        "id": "196",
+        "name": "Breakout",
+        "founded": 2024,
+        "founders": [
+            "Hitesh Aggarwal",
+            "Sachin Gupta"
+        ],
+        "website": "https://getbreakout.ai/",
+        "category": "Business Automation, Agents & Productivity",
+        "tags": [
+            "Business Automation",
+            "Agents & Productivity"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Silicon Valley",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGHReRWbhhh0w/company-logo_200_200/B56ZWLwCUfHsAM-/0/1741806380548/breakoutai_logo?e=1756339200&v=beta&t=XqZJizdXEIAnafgvUc7N_If8Ahy9lkkPQxYe7uvmHmY",
+        "description": "AI-powered sales rep platform that engages website visitors in real\u202ftime, qualifying leads and offering instant demos to accelerate B2B sales pipelines.",
+        "linkedinProfile": "https://www.linkedin.com/company/breakoutai/"
+    },
+    {
+        "id": "197",
+        "name": "All Caps",
+        "founded": 2024,
+        "founders": [
+            "Divyabh Mishra",
+            "Gauthaam M"
+        ],
+        "website": "https://www.allcaps.ai/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "Texas",
+        "city": "Frisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHL0QVicQmppQ/company-logo_200_200/company-logo_200_200/0/1728735420681/allcapsinc_logo?e=1756339200&v=beta&t=DwFA-5i_UoPBS7aUHK76W5pnDAt2z_aGMzU-tW0Add8",
+        "description": "AI platform that automates software procurement and contract management to streamline renewals and optimize spend.",
+        "linkedinProfile": "https://www.linkedin.com/company/allcapsinc/"
+    },
+    {
+        "id": "198",
+        "name": "Finster",
+        "founded": 2023,
+        "founders": [
+            "Siddhant Jayakumar"
+        ],
+        "website": "https://finster.ai/",
+        "category": "Financial Services, Compliance & Analytics",
+        "tags": [
+            "Financial Services",
+            "Compliance & Analytics"
+        ],
+        "country": "UK",
+        "state": "England",
+        "city": "London",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF6dSBLrrYYwg/company-logo_200_200/company-logo_200_200/0/1722267064154/finster_ai_logo?e=1756339200&v=beta&t=kHgR3z8IoWQxWOQP9sucV8_CnWoHlS5PzAxgYTGGRTU",
+        "description": "Enterprise-grade platform that accelerates investment research by turning unstructured financial filings and documents into actionable, citation-backed insights.",
+        "linkedinProfile": "https://www.linkedin.com/company/finster-ai/"
+    },
+    {
+        "id": "199",
+        "name": "Segmind",
+        "founded": 2022,
+        "founders": [
+            "Rohit Rao",
+            "Harish Prabhala"
+        ],
+        "website": "https://www.segmind.com/",
+        "category": "Generative AI Platforms & Multimodal Content Creation",
+        "tags": [
+            "Generative AI Platforms & Multimodal Content Creation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "Santa Clara",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEsl6qsWMqfLg/company-logo_200_200/company-logo_200_200/0/1630643037741/segmind_logo?e=1756339200&v=beta&t=9agKR2a7GeNvkRzWh0SMNezktNmqLmMCXfuCbou718c",
+        "description": "Generative AI platform with serverless APIs and tools for fast, efficient image and video generation and editing.",
+        "linkedinProfile": "https://www.linkedin.com/company/segmindofficial/"
+    },
+    {
+        "id": "200",
+        "name": "Dashtoon",
+        "founded": 2024,
+        "founders": [
+            "Soumyadeep",
+            "Sanidya Narain",
+            "Lalith Gudipatii"
+        ],
+        "website": "https://dashtoon.com/",
+        "category": "Code, Developer Tools & Automation",
+        "tags": [
+            "Code",
+            "Developer Tools & Automation"
+        ],
+        "country": "US",
+        "state": "California",
+        "city": "San Francisco",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQEk5xThMV7xoA/company-logo_200_200/company-logo_200_200/0/1670336725333/dashtoon_logo?e=1756339200&v=beta&t=UabCj3dzOYrNqF-AbwPzVifMyQ-yfSm6GEJSMTAaU5c",
+        "description": "Turns stories into comics using AI-generated characters and storyboards with minimal effort.",
+        "linkedinProfile": "https://www.linkedin.com/company/dashverseai/"
+    }
 ]
