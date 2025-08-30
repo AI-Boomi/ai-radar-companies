@@ -261,7 +261,7 @@
             "Healthcare & Medical Diagnostics"
         ],
         "country": "India",
-        "state": NaN,
+        "state": ,
         "city": "New Delhi",
         "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGzLZKfhSeNiA/company-logo_200_200/company-logo_200_200/0/1631311299802?e=1756339200&v=beta&t=R--NJQap2JDkKrYtmIlSxNTGDKusbLK-2AiD9IJjMQ4",
         "description": "AI-powered virtual physician chatbot designed to bridge the doctor-patient ratio gap in India",
@@ -304,7 +304,7 @@
             "Compliance & Analytics"
         ],
         "country": "Singapore",
-        "state": NaN,
+        "state": ,
         "city": "Singapore",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGnQY0udJBJuQ/company-logo_200_200/B56ZgpXK1JHQAI-/0/1753040596741/finbots_ai_pte_ltd_logo?e=1756339200&v=beta&t=mqIEhPQgLlLqzqhbqqYX5Gczq-aUEUJPRQMRpOEkBUk",
         "description": "AI-driven credit risk modeling platform that enables financial institutions to rapidly build, validate, and deploy high-accuracy credit scorecards across the lending lifecycle\u2014application, behavior, and collections.",
@@ -430,7 +430,7 @@
         ],
         "country": "India",
         "state": "California",
-        "city": NaN,
+        "city": ,
         "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHugAcnLOcvkg/company-logo_200_200/B4EZY0l61RHcAI-/0/1744639078115/pixisai_logo?e=1756339200&v=beta&t=8uFUu2mlDbToT1xwYm06D_4_GCEV11UN3XQa7zm1Zf8",
         "description": "Provides codeless AI infrastructure to enable customers to scale accurate data-driven marketing.",
         "linkedinProfile": "https://www.linkedin.com/company/pixisai/about/"
@@ -665,7 +665,7 @@
             "Communication & Voice"
         ],
         "country": "India",
-        "state": NaN,
+        "state": ,
         "city": "New Delhi",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGs2WEMdfVlaA/company-logo_200_200/company-logo_200_200/0/1696590129413?e=1756339200&v=beta&t=2s7QaIG49q1YoRw3ojPvjOoyMp3MjQPo5Slje-mWcyk",
         "description": "Offers AI agents, multilingual chat, and voice support tailored for Indian users.",
@@ -873,7 +873,7 @@
             "and IoT"
         ],
         "country": "India",
-        "state": NaN,
+        "state": ,
         "city": "New Delhi",
         "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFX0dxczQGdgw/company-logo_200_200/company-logo_200_200/0/1630497116576/ripik_ai_logo?e=1756339200&v=beta&t=LEnJmtikIJXtemjIh8bcz3sg07hu_e13mPuB2Z980iU",
         "description": "Creates artificial intelligence applications for industrial business",
@@ -1214,7 +1214,7 @@
             "and IoT"
         ],
         "country": "Singapore",
-        "state": NaN,
+        "state": ,
         "city": "Singapore",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQG46SYag1bhXg/company-logo_200_200/B56ZdkvhH7H8AQ-/0/1749741867953/nextbillion_ai_logo?e=1756339200&v=beta&t=lv-vR0h6uCtCcQ7Q0F1RTh7ciI7vIHrxcxvEAvbXlFM",
         "description": "A customizable suite of APIs, SDKs, and tools for routing, optimization, navigation, and tracking applications, helping enterprises adopt an AI-first approach to complex location problems.",
@@ -1786,7 +1786,7 @@
             "Generative AI Platforms & Multimodal Content Creation"
         ],
         "country": "India",
-        "state": NaN,
+        "state": ,
         "city": "New Delhi",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEB3M4kZeF-jw/company-logo_200_200/company-logo_200_200/0/1709035558908/mockey_ai_logo?e=1756339200&v=beta&t=CdHyeorYqbGO_UpEZcXgNA6LuxQ3xaulXlmgICJvhRk",
         "description": "Generates professional product mockups and AI product photography from your designs or photos with a vast library of premium templates.",
@@ -1847,7 +1847,7 @@
             "Generative AI Platforms & Multimodal Content Creation"
         ],
         "country": "India",
-        "state": NaN,
+        "state": ,
         "city": "New Delhi",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQFmjBta0v240w/company-logo_200_200/company-logo_200_200/0/1736525008180/quickreel_logo?e=1756339200&v=beta&t=Aqv15MFMBJ4wzGP1fE14_WWoeIasMLyup3Bs37DoPhs",
         "description": "AI clipping tool to create data-driven viral short clips from long videos.",
@@ -1928,7 +1928,7 @@
             "Compliance & Analytics"
         ],
         "country": "India",
-        "state": NaN,
+        "state": ,
         "city": "New Delhi",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQG94-dH5pTQ7w/company-logo_200_200/company-logo_200_200/0/1696094422319/insightai_technologies_logo?e=1756339200&v=beta&t=aE0Ybs5doWZPpifW5AsWP6veOI8_J2ztlBavujU-gPI",
         "description": "AI-powered real-time fraud detection and AML solutions for financial institutions and fintechs",
@@ -2438,7 +2438,7 @@
             "Developer Tools & Automation"
         ],
         "country": "UAE",
-        "state": NaN,
+        "state": ,
         "city": "Abu Dhabi",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFE1SX-h9iFVA/company-logo_200_200/company-logo_200_200/0/1725362135560/gpunet_logo?e=1756339200&v=beta&t=cCUTWw9SulW8uo04l7e3BpFMdTleokx4G9A4KqyxK3s",
         "description": "A decentralized network of GPUs, allowing individuals to contribute their resources and democratize GPU computing power.",
@@ -2746,7 +2746,7 @@
             "Generative AI Platforms & Multimodal Content Creation"
         ],
         "country": "India",
-        "state": NaN,
+        "state": ,
         "city": "Delhi",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEKasdzDCixHw/company-logo_200_200/company-logo_200_200/0/1695468605532/frammer_ai_logo?e=1756339200&v=beta&t=IfcCzJO6fmHkhXVT9-VWet_PMeQDHa9kkEsiUUc4zgs",
         "description": "AI-powered platform that transforms long-form videos into short, monetizable clips for platforms like YouTube Shorts, Instagram Reels, and LinkedIn",
@@ -2789,7 +2789,7 @@
             "Agents & Productivity"
         ],
         "country": "Singapore",
-        "state": NaN,
+        "state": ,
         "city": "Singapore",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEzq1_R39HvKg/company-logo_200_200/company-logo_200_200/0/1704291435098/onetabai_logo?e=1756339200&v=beta&t=6QdLUgRC2bw5J5TuUF52C89pC0zE2Oo3FuBoe-FM2w4",
         "description": "AI-powered platform designed to streamline the software development lifecycle by integrating various tools into a unified interface.",
@@ -2809,7 +2809,7 @@
             "Compliance & Risk Management"
         ],
         "country": "Ireland",
-        "state": NaN,
+        "state": ,
         "city": "Dublin",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGOnBoavbbZjw/company-logo_200_200/company-logo_200_200/0/1710300035940/inspeq_ai_logo?e=1756339200&v=beta&t=6cdzh36cyIkZB37ASnSr9S9G-FEQ7tbilOMFt12NjoA",
         "description": "AI infrastructure firm providing an enterprise-ready platform to operationalize Responsible AI principles in the development cycle.",
@@ -3827,7 +3827,7 @@
             "Generative AI Platforms & Multimodal Content Creation"
         ],
         "country": "Singapore",
-        "state": NaN,
+        "state": ,
         "city": "Singapore",
         "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQF5MrTnb5IF4Q/company-logo_200_200/company-logo_200_200/0/1728581929484?e=1756339200&v=beta&t=0wVkNHv1wQsVoCpoJnI86Zk3-nLICkvjDEyYVjV5WkE",
         "description": "AI platform for generating fashion and textile designs and visulizations",
