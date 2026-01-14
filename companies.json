@@ -2812,5 +2812,19 @@
     "Description": "Turns stories into comics using AI-generated characters and storyboards with minimal effort.",
     "Linkedin Profile URL": "https://www.linkedin.com/company/dashverseai/",
     "uuid": 402
-  }
+  },
+  {
+  "Name": "Nugen Intelligence",
+  "Founded": 2025,
+  "Founders": "Dr. Aakash Patil, Mrunmayee Shende",
+  "Website": "https://nugen.in",
+  "Category": "AI Research, AI Infrastructure",
+  "Country": "India",
+  "State": "Maharashtra",
+  "City": "Mumbai",
+  "Logo": "https://nugen.in/logo.png",
+  "Description": "Nugen Intelligence tackles AI reliability challenges at the deep learning architecture level through Domain-Aligned AI™ technology, empowering enterprises to trust AI-assisted workflows and agents in high-stakes domains like legal and finance.",
+  "Linkedin Profile URL": "https://www.linkedin.com/company/nugen-in",
+  "uuid": 403
+} 
 ]
